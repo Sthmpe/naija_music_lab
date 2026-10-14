@@ -1,0 +1,360 @@
+{
+  "schema_version": "0.2.0",
+  "title": "Ye Ye Ye",
+  "artist": "Omah Lay",
+  "project": "Get Layd",
+  "track_number": 5,
+  "release_date": "2020-05-22",
+  "duration_seconds": 194.33,
+  "duration_status": "measured supplied private playback capture; platform duration is reference metadata, never a completeness requirement",
+  "writers": [
+    "Stanley Omah Didia",
+    "Alexandre Uwaifo"
+  ],
+  "producers": [
+    "Andre Vibez"
+  ],
+  "credits_status": "Shazam-reported",
+  "audio_status": "PARTIAL_CAPTURE_EXTERNAL_LISTENING_VERIFIED",
+  "bpm": 80.18,
+  "key_or_tonal_centre": null,
+  "time_signature": "plausible 4/4 grouping from external listening; not confirmed beat grid",
+  "sources": [
+    "https://open.spotify.com/album/3wzSqNDc2jNNV42XLkkDMA",
+    "https://www.shazam.com/song/1528527075/ye-ye-ye",
+    "https://audiomack.com/omah-lay/song/ye-ye-ye",
+    "https://afrikalyrics.com/omah-lay-ye-ye-ye-lyrics",
+    "https://www.youtube.com/watch?v=AMi2KdLIhxs",
+    "artists/01-omah-lay/audio/get-layd/wav-intake.json",
+    {
+      "type": "external_listening",
+      "path": "listening-analysis.md",
+      "date_received": "2026-09-27",
+      "note": "user supplied; heard claims attributed to Listening Analyst"
+    },
+    {
+      "type": "technical_measurement",
+      "path": "../../../../audio/get-layd/wav-intake.json",
+      "note": "local PCM duration, format, signal boundaries; not listening"
+    },
+    {
+      "type": "lyric_research",
+      "path": "../../../../lyrics/get-layd/ye-ye-ye.md"
+    }
+  ],
+  "structure": {
+    "first_vocal_seconds_approx": 0.1,
+    "first_hook_material_seconds_approx": 0.1,
+    "first_extended_hook_seconds_approx": 36.5,
+    "music_end_seconds_approx": null,
+    "capture_end_seconds": 194.33,
+    "landmarks": [
+      {
+        "start_seconds_approx": 0,
+        "end_seconds_approx": 3.5,
+        "function": "opening title vocable"
+      },
+      {
+        "start_seconds_approx": 3.5,
+        "end_seconds_approx": 18,
+        "function": "Kalakuta call response"
+      },
+      {
+        "start_seconds_approx": 18,
+        "end_seconds_approx": 36.5,
+        "function": "Enugu/Yeezy-like references"
+      },
+      {
+        "start_seconds_approx": 36.5,
+        "end_seconds_approx": 45.5,
+        "function": "compact first title hook"
+      },
+      {
+        "start_seconds_approx": 45.5,
+        "end_seconds_approx": 72.5,
+        "function": "dense comparisons"
+      },
+      {
+        "start_seconds_approx": 72.5,
+        "end_seconds_approx": 93.5,
+        "function": "long she-go hook"
+      },
+      {
+        "start_seconds_approx": 93.5,
+        "end_seconds_approx": 105.5,
+        "function": "nonlexical transition"
+      },
+      {
+        "start_seconds_approx": 105.5,
+        "end_seconds_approx": 116.6,
+        "function": "Awolowo/Bam Bam"
+      },
+      {
+        "start_seconds_approx": 116.6,
+        "end_seconds_approx": 141.3,
+        "function": "local-name/Igbo-sounding cluster"
+      },
+      {
+        "start_seconds_approx": 141.3,
+        "end_seconds_approx": 165.5,
+        "function": "later hook"
+      },
+      {
+        "start_seconds_approx": 165.5,
+        "end_seconds_approx": 194.33,
+        "function": "nonlexical continuation cut mid-groove"
+      }
+    ],
+    "status": "partial capture; final section unverified"
+  },
+  "hook": {
+    "first_compact_hook_seconds": 36.5,
+    "representative_first_cycle": "three lead ye plus about seven rapid replies",
+    "representative_later_cycle": "three lead ye plus about five replies; variants",
+    "whole_song_count": "unknown due cutoff and layering"
+  },
+  "language": {
+    "heard_or_text_supported": [
+      "English",
+      "Nigerian-English place/cultural references",
+      "Igbo-sounding passage not securely transcribed"
+    ],
+    "language_ratio": "unmeasured",
+    "uncertain_words": "see lyric correction log"
+  },
+  "cadence": {
+    "heard_findings": [
+      "immediate short-short-short title attacks and longer vowel",
+      "rapid backing responses against spacious lead",
+      "dense comparison verses contrast simple she-go/title cells"
+    ],
+    "phrase_duration": "qualitative short/long contrast; no complete distribution measured",
+    "onset_vs_beat": "selected analyst estimates in alignment; exact grid unverified",
+    "barline_crossing": "unverified",
+    "vocal_density": "qualitative changes only; not quantified"
+  },
+  "phonetics": {
+    "heard_findings": [
+      "ye/yeh heard over fully articulated yeah",
+      "south/mouth/roundabout/shout /aʊ/ assonance",
+      "Bam Bam /b/ attacks",
+      "isi mgbaka nasal plus gb cluster probable, spelling uncertain"
+    ],
+    "rhyme_and_sound": "see timestamped alignment and analysis.md",
+    "uncertainty": "orthography cannot always be resolved from sound alone"
+  },
+  "vocals": {
+    "heard_findings": [
+      "separate call-response events heard; performer identity unknown",
+      "short lead vowel and faster answering attacks"
+    ],
+    "register_range": "unmeasured",
+    "melodic_contour": "qualitative in analysis.md; no pitch transcription",
+    "melodic_range": "unmeasured",
+    "backing_vocal_identity": "unverified"
+  },
+  "production": {
+    "heard_findings": [
+      "continuing groove under nonlexical title calls",
+      "dense verse versus sparse lexical hook",
+      "ending unavailable"
+    ],
+    "kick_and_rim_grid": "unmeasured",
+    "bass_movement": "qualitative groove continuity only; notes unmeasured",
+    "silence_and_negative_space": "vocal gaps over continuing arrangement; no quantified silence map",
+    "loudness_dynamics": "not perceptually calibrated or LUFS measured",
+    "transitions_and_energy": "see section landmarks; approximate"
+  },
+  "lyric_audio_interactions": [
+    {
+      "window": "0:00-0:18",
+      "short_cue": "ye / Kalakuta",
+      "heard_or_interpreted_mechanism": "immediate lead attacks, longer vowel and four-syllable response",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "0:18-0:36.5",
+      "short_cue": "Enugu / Yeezy",
+      "heard_or_interpreted_mechanism": "compressed place name; voiced sibilant does not settle brand spelling",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "0:36.5-0:45.5",
+      "short_cue": "ye",
+      "heard_or_interpreted_mechanism": "three lead attacks and about seven replies in representative cycle",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "0:45.5-1:12.5",
+      "short_cue": "south / mouth / roundabout",
+      "heard_or_interpreted_mechanism": "/aʊ/ rhyme family through dense comparisons",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "1:12.5-1:33.5",
+      "short_cue": "she go / ye",
+      "heard_or_interpreted_mechanism": "three lead plus about five reply attacks in representative cycle",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "1:45.5-2:21.3",
+      "short_cue": "Bam Bam / isi mgbaka",
+      "heard_or_interpreted_mechanism": "percussive consonants; local phrase spelling uncertain",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "2:45.5-3:14.33",
+      "short_cue": "nonlexical continuation",
+      "heard_or_interpreted_mechanism": "cutoff; extra printed lyric passage unresolved",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    }
+  ],
+  "story_units": [
+    "opening title vocable",
+    "Kalakuta call response",
+    "Enugu/Yeezy-like references",
+    "compact first title hook",
+    "dense comparisons",
+    "long she-go hook",
+    "nonlexical transition",
+    "Awolowo/Bam Bam",
+    "local-name/Igbo-sounding cluster",
+    "later hook",
+    "nonlexical continuation cut mid-groove"
+  ],
+  "limitations": [
+    "source coverage limit: Listening Analyst hears a hard cutoff while the performance continues; ending-dependent findings withheld, available-audio analysis complete",
+    "AfrikaLyrics extra late passage absent from Shazam cannot be settled from cut capture",
+    "mgbaka/adjacent expression and Yeezy orthography uncertain",
+    "key, melodic range, exact grid, kick/rim placement and quantitative vocal density unmeasured",
+    "Codex did not directly hear WAV; audible claims come from separate preserved Listening Analyst report",
+    "release credits and dates are indexed platform metadata, not independent publishing registrations"
+  ],
+  "features": [],
+  "tempo_stability": "two distant analyst-timed pulse windows agree approximately; full-song grid not measured",
+  "single_status": "approved original Get Layd EP recording; earlier single/master equivalence not independently proven",
+  "chart_performance": [],
+  "songwriting": {
+    "narrative_and_structure": "see analysis.md; source-derived story interpretation joined to reported listening",
+    "generative_lessons": [
+      {
+        "observation": "title vocable starts almost immediately",
+        "mechanism": "early vowel anchor is later varied as call response",
+        "possible_transferable_principle": "test phonetic hook memory before information-dense verses",
+        "use_case_tags": [
+          "HOOK_DOCTOR",
+          "PRODUCTION_AWARE_WRITER"
+        ],
+        "status": "song-level hypothesis; requires cross-song validation"
+      },
+      {
+        "observation": "local consonant cluster has uncertain transcription",
+        "mechanism": "compression blurs spelling and word boundaries",
+        "possible_transferable_principle": "store phonetic evidence separately from orthographic and semantic confidence",
+        "use_case_tags": [
+          "NIGERIAN_LANGUAGE_CRITIC",
+          "ORIGINALITY_AUDITOR"
+        ],
+        "status": "song-level hypothesis; requires cross-song validation"
+      }
+    ]
+  },
+  "simple_lines_musicality": [
+    "test phonetic hook memory before information-dense verses",
+    "store phonetic evidence separately from orthographic and semantic confidence"
+  ],
+  "findings": [
+    "immediate short-short-short title attacks and longer vowel",
+    "rapid backing responses against spacious lead",
+    "dense comparison verses contrast simple she-go/title cells",
+    "ye/yeh heard over fully articulated yeah",
+    "south/mouth/roundabout/shout /aʊ/ assonance",
+    "Bam Bam /b/ attacks",
+    "isi mgbaka nasal plus gb cluster probable, spelling uncertain",
+    "continuing groove under nonlexical title calls",
+    "dense verse versus sparse lexical hook",
+    "ending unavailable"
+  ],
+  "experimental_metrics": [
+    {
+      "name": "distant_principal_pulse_samples",
+      "value": "12 beats / 8.986 s near 0:20 and 12 beats / 8.975 s near 2:30; approximately 80.1-80.2 BPM; Shazam 80 BPM",
+      "provenance": "analyst timed beat intervals; arithmetic checked by Codex",
+      "status": "two-window estimate"
+    },
+    {
+      "name": "capture_completion",
+      "value": "active-signal hard cutoff before EP reference duration",
+      "provenance": "local WAV endpoint plus external listening",
+      "status": "first-pass evidence"
+    }
+  ],
+  "audio_discovery_status": "Broad discovery completed 2026-09-24; official and licensed page listings found, no audio bytes technically accessible in this environment",
+  "audio_acquisition_record": "artists/01-omah-lay/audio/get-layd/acquisition.md",
+  "lyric_verification_record": "artists/01-omah-lay/lyrics/get-layd/ye-ye-ye.md",
+  "capture_intake": {
+    "checked_date": "2026-09-25",
+    "path": "artists/01-omah-lay/audio/get-layd/ye ye ye.mp3",
+    "capture_provenance": "user states private capture of computer playback",
+    "decoded_duration_seconds": 194.33,
+    "format": "MPEG-1 Layer III 320 kb/s CBR 44.1 kHz joint stereo; no ID3",
+    "identity_status": "not verified by listening",
+    "note": "Short by about 12.7 s against EP listing and active at cutoff",
+    "technical_record": "artists/01-omah-lay/audio/get-layd/technical-intake.md"
+  },
+  "analysis_completion_status": "COMPLETE_FOR_AVAILABLE_AUDIO",
+  "bpm_status": "12 beats / 8.986 s near 0:20 and 12 beats / 8.975 s near 2:30; approximately 80.1-80.2 BPM; Shazam 80 BPM",
+  "capture_intake_current": {
+    "checked_date": "2026-09-26",
+    "path": "artists/01-omah-lay/audio/get-layd/ye ye ye.wav",
+    "format": "uncompressed WAV; 16-bit stereo PCM; 44.1 kHz",
+    "sha256": "0b23ab0ee6c5356f6785d7adc60b3a0b37223a2e480af2d1dfac9b7841d34668",
+    "decoded_duration_seconds": 194.33,
+    "signal_start_seconds_approx": 0.0,
+    "signal_end_seconds_approx": 194.33,
+    "leading_low_signal_seconds_approx": 0.0,
+    "trailing_low_signal_seconds_approx": 0.0,
+    "declared_frames": 8569975,
+    "decoded_frames": 8569975,
+    "version_identity": "captured part sounds like solo studio EP track; full version cannot be confirmed due cutoff",
+    "technical_record": "artists/01-omah-lay/audio/get-layd/technical-intake.md",
+    "listening_evidence": "listening-analysis.md; user-supplied audio-capable analyst report, not Codex direct listening"
+  },
+  "evidence_layers": {
+    "source_metadata": "EP/Shazam and indexed source records",
+    "lyrical": "lyrics/get-layd/ye-ye-ye.md; Shazam/Afrika source disagreements",
+    "technical_audio": "audio/get-layd/wav-intake.json and technical-intake.md",
+    "heard": "listening-analysis.md preserved from user attachment",
+    "interpreted": "analysis.md sections explicitly labelled as interpretation or possible principle"
+  },
+  "version_identity": {
+    "assessment": "captured part sounds like solo studio EP track; full version cannot be confirmed due cutoff",
+    "bit_identical_master": "unverified",
+    "capture_source_url": "unverified"
+  },
+  "completion_blocker": null,
+  "ending_reassessment_2026_09_28": {
+    "completeness_decision": "source recording truncated; first-pass analysis complete for available audio",
+    "decisive_evidence_type": "attributed Listening Analyst hearing of hard cutoff",
+    "audible_evidence": "At 3:14.33 rhythm and nonlexical/response-vocal material continue; no fade, final chord, silence or convincing stop. No clearly lexical word is cut.",
+    "last_audible_event": "continuing groove and nonlexical/response-vocal material, without a clearly cut lexical word",
+    "natural_fade_or_arranged_stop": false,
+    "platform_duration_role": "reference metadata only; mismatch is a technical flag, not proof",
+    "bit_identical_master_required": false,
+    "new_broad_listening_pass_required": false,
+    "missing_duration_seconds": "unknown",
+    "first_pass_audio_replacement_required": false
+  },
+  "source_recording_complete": false,
+  "analysis_complete_for_available_audio": true,
+  "source_recording_completeness_basis": "Preserved external Listening Analyst report hears hard cutoff during continuing groove and nonlexical/response material",
+  "analysis_evidence_scope": "Substantial supplied capture through hard cutoff; first-pass analysis complete for available audio; post-cutoff events unavailable",
+  "unassessable_due_to_partial_source": [
+    "whether AfrikaLyrics-only late passage occurs after cutoff",
+    "final hook count and duration",
+    "post-cutoff ad-libs",
+    "outro duration/structure",
+    "final production resolution",
+    "arranged fade/stop or ending behaviour"
+  ]
+}

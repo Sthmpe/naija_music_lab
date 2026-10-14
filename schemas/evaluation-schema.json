@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Evaluation",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "item_id",
+    "rubric_version",
+    "evaluator",
+    "scores",
+    "evidence",
+    "limitations"
+  ],
+  "properties": {
+    "item_id": {
+      "description": "item id with evidence/status in analysis.md",
+      "type": "string"
+    },
+    "rubric_version": {
+      "description": "rubric version with evidence/status in analysis.md",
+      "type": "string"
+    },
+    "evaluator": {
+      "description": "evaluator with evidence/status in analysis.md",
+      "type": "string"
+    },
+    "scores": {
+      "description": "scores with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "evidence": {
+      "description": "evidence with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "limitations": {
+      "description": "limitations with evidence/status in analysis.md",
+      "type": "array"
+    }
+  }
+}

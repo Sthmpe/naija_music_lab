@@ -1,0 +1,73 @@
+{
+  "schema_version": "0.1.0",
+  "title": "WAIST",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "CLARITY OF MIND",
+  "track_number": 8,
+  "release_date": "2026-04-03",
+  "writers": [
+    "pontus persson",
+    "Stanley Omah Didia",
+    "Richard Zastenker"
+  ],
+  "producers": [
+    "pontus persson",
+    "LIOHN"
+  ],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "album track; earlier single status not yet reconciled",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://music.apple.com/us/album/clarity-of-mind/1880890112",
+    "https://www.shazam.com/song/1880890452/waist"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "transcription only"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "English and Nigerian Pidgin visible; references pending check"
+  },
+  "songwriting": {
+    "textual_reading": "The transcription mixes bodily attraction, money, faith calls and a Samson reference. Apple's artist note explains the biblical and erotic pairing. Local terms and apparently nonsensical syllables need audio and language checking before interpretation."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "The refrain reduces complex temptation to a concrete body image and interjection.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "The refrain reduces complex temptation to a concrete body image and interjection.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "bodily refrain",
+    "money/boast",
+    "temptation",
+    "Samson image"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Transcription not independently checked",
+    "No timed musical section map"
+  ],
+  "experimental_metrics": {}
+}

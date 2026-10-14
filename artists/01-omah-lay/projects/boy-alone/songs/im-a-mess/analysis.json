@@ -1,0 +1,80 @@
+{
+  "schema_version": "0.1.0",
+  "title": "i'm a mess",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "Boy Alone",
+  "track_number": 5,
+  "release_date": "2022-07-14",
+  "release_date_note": "Apple Music displays July 14; Spotify page displays July 15 for album",
+  "duration_seconds": 153,
+  "duration_status": "Spotify-reported",
+  "writers": [
+    "Stanley Omah Didia",
+    "Adebajo Oluwanifemi Adebanjo"
+  ],
+  "producers": [
+    "Niphkeys"
+  ],
+  "credits_status": "Shazam-reported; some song credits require reconciliation",
+  "bpm": null,
+  "bpm_status": "unknown",
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "audio_status": "USER_FILE_REQUIRED",
+  "sources": [
+    "https://open.spotify.com/album/6A5x0fKoL7IBjeVy0UU8lq",
+    "https://www.shazam.com/song/1634892770/im-a-mess",
+    "https://music.apple.com/us/album/boy-alone/1624954180"
+  ],
+  "structure": {
+    "status": "transcription-level only; timed sections unknown"
+  },
+  "hook": {
+    "textual_hypothesis": "counted coping actions follow mood contradictions",
+    "audio_verification_required": true
+  },
+  "songwriting": {
+    "textual_units": [
+      "mood contradiction",
+      "overthinking",
+      "counted coping",
+      "status interruption",
+      "return"
+    ]
+  },
+  "language": {
+    "status": "English/Nigerian Pidgin visible; local wording pending verification"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "mood contradiction",
+    "overthinking",
+    "counted coping",
+    "status interruption",
+    "return"
+  ],
+  "limitations": [
+    "Audio not heard",
+    "Transcription not independently reconciled",
+    "No validated musical section map"
+  ],
+  "single_status": "UNKNOWN",
+  "chart_performance": [],
+  "simple_lines_musicality": [],
+  "findings": [],
+  "experimental_metrics": []
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1.0",
+  "title": "One Call ? SPINALL, Omah Lay & Tyla",
+  "artist": "SPINALL, Omah Lay & Tyla",
+  "features": [
+    "Omah Lay"
+  ],
+  "project": null,
+  "track_number": null,
+  "release_date": "2024-07-12",
+  "writers": [],
+  "producers": [],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "approved primary collaboration",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://music.apple.com/us/album/one-call-single/1755455161",
+    "https://www.revolt.tv/article/studio-sessions-spinall-discusses-making-music-with-tyla-and-dr-dre"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "text-level only; performer sections pending"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "guest words and language pending verification"
+  },
+  "songwriting": {
+    "textual_reading": "SPINALL says Omah Lay recorded a full verse before Tyla joined, giving a rare creation-sequence comparison. The lyric idea concerns availability despite distance. A 2025 Shazam album page reflects later ?K? GROOVE placement; use the 2024 single for this approved recording.",
+    "omah_lay_scope": "Omah Lay full verse, per SPINALL; verify exact section in audio"
+  },
+  "simple_lines_musicality": {
+    "status": "audio pending"
+  },
+  "hook": {
+    "hypothesis": "SPINALL says Omah Lay recorded a full verse before Tyla joined, giving a rare creation-sequence comparison. The lyric idea concerns availability despite distance. A 2025 Shazam album page reflects later ?K? GROOVE placement; use the 2024 single for this approved recording.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending; identity of sections to verify"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Performer sections unverified",
+    "Credits need reconciliation"
+  ],
+  "experimental_metrics": {}
+}

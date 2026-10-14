@@ -1,0 +1,70 @@
+{
+  "schema_version": "0.1.0",
+  "title": "DON'T LOVE ME",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "CLARITY OF MIND",
+  "track_number": 5,
+  "release_date": "2026-04-03",
+  "writers": [
+    "Aatu Iljin",
+    "Michael Alagwu",
+    "Stanley Omah Didia"
+  ],
+  "producers": [],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "album track; earlier single status not yet reconciled",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://music.apple.com/us/album/clarity-of-mind/1880890112",
+    "https://www.shazam.com/song/1880890119/dont-love-me"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "transcription only"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "English and Nigerian Pidgin visible; references pending check"
+  },
+  "songwriting": {
+    "textual_reading": "The text links numbness and failed intoxication to a repeated request that a partner avoid attachment. A later verse frames this as habitual self-protection. The outro briefly reverses the command, creating an unresolved emotional contradiction."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "An extremely short negative imperative is repeated against more detailed confessional lines.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "An extremely short negative imperative is repeated against more detailed confessional lines.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "numbness",
+    "relationship avoidance",
+    "self-diagnosis",
+    "conflicted outro"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Transcription not independently checked",
+    "No timed musical section map"
+  ],
+  "experimental_metrics": {}
+}

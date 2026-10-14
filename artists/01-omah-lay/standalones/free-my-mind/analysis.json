@@ -1,0 +1,72 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Free My Mind",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": null,
+  "track_number": null,
+  "release_date": "2021-11-12",
+  "writers": [
+    "Marcel Akunwata",
+    "Stanley Omah Didia"
+  ],
+  "producers": [
+    "Blaise Beatz"
+  ],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "approved solo non-project recording",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://www.shazam.com/song/1591500880/free-my-mind"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "text-level only"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "transcription pending verification"
+  },
+  "songwriting": {
+    "textual_reading": "The lyric uses drinking as a repeated proposed release from worry, while verses shift among relationships, self-assertion and irritations with other people. The refrain returns to the same simple remedy without resolving the problems."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "The title phrase and its alcohol modifier form a compact repeated verbal cell.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "The title phrase and its alcohol modifier form a compact repeated verbal cell.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "plea for mental release",
+    "relationships",
+    "self-assertion",
+    "complaint",
+    "return to plea"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Section attribution pending",
+    "Credits/transcription not independently verified"
+  ],
+  "experimental_metrics": {},
+  "corpus_group": "solo non-project recording"
+}

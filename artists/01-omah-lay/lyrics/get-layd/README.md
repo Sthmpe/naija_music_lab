@@ -1,0 +1,9 @@
+# Get Layd working lyric verification workspace
+
+Checked 2026-09-24; updated 2026-09-26. Each song file links to publicly available full-text source pages, records a nonverbatim section map and flags disputed wording. The current [agent rules](../../../AGENTS.md) allow complete lyrics as **private working inputs**. The available web research channel limits verbatim reuse from third-party pages, so these files are transcription indexes and correction logs rather than copied full pages. Damn's selected performance phrases have been checked through preserved external listening reports; its remaining uncertain words stay marked. Lo Lo and Bad Influence now have completed first-pass externally verified analyses; You and Ye Ye Ye have externally verified partial analyses but need complete endings. The separate listening requests document the earlier handoff. The supplied captures are technically decodable, but this Codex model does not support auditory input. Brief necessary excerpts and analytical observations belong in final analytical outputs.
+
+Genius, Musixmatch and LyricFind-powered pages were searched. The available search channel did not return usable complete pages for this five-song set; Shazam and AfrikaLyrics provided cross-checkable text, and an official YouTube description or lyric video is linked where found. A third-party transcription can repeat another source's mistakes, so agreement is provisional.
+
+## 2026-09-27 current reconciliation
+
+All four pending songs now have preserved separate Listening Analyst reports and timestamped lyric/performance notes. Lo Lo and Bad Influence support completed first passes; You and Ye Ye Ye are verified partial captures. The earlier paragraph above records the pre-listening status as of 2026-09-26 and is superseded for current workflow status. Ambiguous Nigerian-language words remain phonetic/uncertain rather than normalized to one web spelling.

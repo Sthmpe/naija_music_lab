@@ -1,0 +1,80 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Damn (feat. 6LACK)",
+  "artist": "Omah Lay",
+  "features": [
+    "6LACK"
+  ],
+  "project": "What Have We Done",
+  "track_number": 5,
+  "release_date": "2020-11-20",
+  "duration_seconds": 159,
+  "duration_status": "Spotify-reported",
+  "writers": [
+    "John Oche",
+    "Ricardo Valentine",
+    "Stanley Omah Didia"
+  ],
+  "producers": [
+    "Omah Lay",
+    "Bizzouch"
+  ],
+  "credits_status": "Shazam-reported",
+  "bpm": null,
+  "bpm_status": "unknown",
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "audio_status": "USER_FILE_REQUIRED",
+  "sources": [
+    "https://open.spotify.com/album/4PYDryHrfDvfnUHvZ2eqKv",
+    "https://www.shazam.com/song/1833116969/damn-feat-6lack"
+  ],
+  "structure": {
+    "status": "transcription-level only; timed sections unknown"
+  },
+  "hook": {
+    "textual_hypothesis": "original refrain persists with added second perspective",
+    "audio_verification_required": true
+  },
+  "songwriting": {
+    "textual_units": [
+      "loyalty claim",
+      "added relational view",
+      "retained original account",
+      "refrain return"
+    ]
+  },
+  "language": {
+    "status": "English/Nigerian Pidgin visible; local wording pending verification"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "loyalty claim",
+    "added relational view",
+    "retained original account",
+    "refrain return"
+  ],
+  "limitations": [
+    "Audio not heard",
+    "Transcription not independently reconciled",
+    "No validated musical section map"
+  ],
+  "single_status": null,
+  "chart_performance": [],
+  "simple_lines_musicality": [],
+  "findings": [],
+  "experimental_metrics": []
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": "0.1.0",
+  "title": "imagine (feat. Aitch)",
+  "artist": "Omah Lay",
+  "features": [
+    "Aitch"
+  ],
+  "project": "Boy Alone (Deluxe)",
+  "track_number": null,
+  "release_date": "2023-06-15",
+  "release_date_note": "Spotify deluxe edition; Shazam inherits original album date",
+  "writers": [
+    "Stanley Omah Didia",
+    "Harrison Armstrong",
+    "Kevin Mike Gbaguidi",
+    "Oluwadamilola Adedolapo Aminu"
+  ],
+  "producers": [
+    "BGRZ"
+  ],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "deluxe edition track",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://open.spotify.com/album/0z1EmisGVrMzYZzr5RsgTq",
+    "https://www.shazam.com/song/1744452991/imagine-feat-aitch"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "transcription-level only; untimed"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "transcription provisional"
+  },
+  "songwriting": {
+    "textual_reading": "The repeated imagined body-to-body scene contrasts with an address to an ex who has found someone else. Aitch?s published verse adds self-criticism and continued attachment. The shift from fantasy to apparent acceptance is the main textual tension."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "The hook is a single repeated imaginative command, but the distinctive effect of the two performers needs audio and section attribution.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "The hook is a single repeated imaginative command, but the distinctive effect of the two performers needs audio and section attribution.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "physical fantasy",
+    "address to former partner",
+    "guest reflection",
+    "refrain return"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Transcript not independently reconciled",
+    "Credits need independent check",
+    "No measured section map"
+  ],
+  "experimental_metrics": {}
+}

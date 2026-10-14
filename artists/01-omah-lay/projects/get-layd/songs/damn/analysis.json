@@ -1,0 +1,275 @@
+{
+  "schema_version": "0.2.0",
+  "title": "Damn",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "Get Layd",
+  "track_number": 1,
+  "release_date": "2020-05-22",
+  "writers": [],
+  "producers": [
+    "Bizzouch (Shazam credit; platform metadata)"
+  ],
+  "duration_seconds": 162.87,
+  "bpm": "approximately 105 principal pulse; external listening beat counts, two 8-interval samples of 4.57 seconds each; Shazam independently lists 105",
+  "tempo_stability": "Two distant sampled windows agree at approximately 105 BPM; entire-song stability not independently measured",
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "Original Get Layd EP recording; exclude later 6LACK version",
+  "chart_performance": [],
+  "sources": [
+    {
+      "type": "primary_external_listening",
+      "path": "listening-verification.md",
+      "date_received": "2026-09-25",
+      "note": "Targeted timestamped verification; preserved separately"
+    },
+    {
+      "type": "broad_external_listening",
+      "path": "listening-analysis.md",
+      "date_received": "2026-09-25",
+      "note": "Broad listening evidence; earlier timing and tempo estimates superseded where targeted report differs"
+    },
+    {
+      "type": "technical_measurement",
+      "path": "../../../../audio/get-layd/technical-intake.md",
+      "note": "Local WAV/MP3 duration, format and signal endpoint; no direct Codex listening"
+    },
+    {
+      "type": "lyric_research",
+      "path": "../../../../lyrics/get-layd/damn.md"
+    },
+    {
+      "type": "acquisition",
+      "path": "../../../../audio/get-layd/acquisition.md"
+    },
+    {
+      "type": "release_metadata",
+      "url": "https://open.spotify.com/album/3wzSqNDc2jNNV42XLkkDMA"
+    },
+    {
+      "type": "artist_uploaded_release_page",
+      "url": "https://audiomack.com/omah-lay/song/damn",
+      "note": "Release page documented; exact WAV capture URL not established"
+    },
+    {
+      "type": "platform_metadata_and_lyrics",
+      "url": "https://www.shazam.com/song/1528527070/damn"
+    },
+    {
+      "type": "alternative_lyrics",
+      "url": "https://afrikalyrics.com/omah-lay-damn-lyrics"
+    }
+  ],
+  "audio_status": "EXTERNAL_LISTENING_VERIFIED_WITH_LIMITS",
+  "analysis_completion_status": "COMPLETE_FIRST_SONG_LEVEL_PASS",
+  "version_identity": {
+    "assessment": "Audibly consistent with approved original solo Get Layd recording; no obvious guest verse, live crowd, remix insertion, edit or speed alteration",
+    "capture_playback_url": "unknown",
+    "bit_identical_commercial_master": "unverified",
+    "id3_absence_is_not_identity_disproof": true
+  },
+  "structure": {
+    "first_vocal_seconds": 4.2,
+    "first_hook_seconds": 17.1,
+    "final_refrain_start_seconds": 132.0,
+    "music_end_seconds": 156.8,
+    "capture_end_seconds": 162.87,
+    "landmarks": [
+      {
+        "window": "0:00-0:04.2",
+        "function": "short instrumental opening"
+      },
+      {
+        "window": "0:04.2-0:17.1",
+        "function": "opening sung setup"
+      },
+      {
+        "window": "0:17.1-0:22.2",
+        "function": "first 11-token title-word run"
+      },
+      {
+        "window": "0:46-1:04",
+        "function": "relative density reduction and transitional catalogue; no full rhythm-section dropout"
+      },
+      {
+        "window": "1:04-1:40",
+        "function": "fuller repeated and narrative material; internal boundaries approximate"
+      },
+      {
+        "window": "1:40-1:53.5",
+        "function": "four lexical address returns and two nonlexical responses"
+      },
+      {
+        "window": "1:58-2:12",
+        "function": "speech-compressed risk/family passage; kick, rim/snare and bass continue"
+      },
+      {
+        "window": "2:12-2:36",
+        "function": "final refrain and closing 11-token title-word run at 2:24.8-2:36"
+      }
+    ],
+    "section_boundary_precision": "approximate; no certified bar grid"
+  },
+  "cadence": {
+    "findings": [
+      "Compact variable-length phrase units and deliberate gaps",
+      "First title word lands on or just ahead of principal pulse",
+      "Waka phrase around 1:08 starts essentially on pulse and compresses unstressed setup",
+      "Later family passage is more speech-compressed before melodic final refrain"
+    ],
+    "barline_crossing": "unverified",
+    "exact_phrase_length_distribution": "unmeasured"
+  },
+  "phonetics": {
+    "findings": [
+      "Opening wrong and later lost keep a similar stressed slot but differ in vowel duration and clipped endings",
+      "Repeated title word moves from sustained vowel to quicker consonant-led attacks; final /ae/ longest",
+      "Catalogue cloth/clothe ending softened; vowel weighted",
+      "Address passage contrasts clipped lexical words with longer nonlexical sounds"
+    ],
+    "uncertain_spellings": [
+      "person-address term near 1:00",
+      "cloth versus clothe orthography",
+      "risk-group term near 1:58"
+    ]
+  },
+  "language": {
+    "materials": [
+      "English",
+      "Nigerian Pidgin"
+    ],
+    "finding": "Speech-derived timing, compressed setup syllables and flexible word boundaries on the verified walking phrase",
+    "language_ratio": "unmeasured"
+  },
+  "songwriting": {
+    "story_arc": "Loyalty despite personal faults, care/support imagery, later risk and family objection, changed-context refrain return",
+    "generative_lessons": [
+      "Vary entry timing and rest length among compact phrase units",
+      "Keep a small rhythmic memory unit while changing semantic setup and arrangement support",
+      "Let local speech stress and pronunciation determine rhythmic fit",
+      "Leave gaps for continuing percussion and bass to finish a statement",
+      "Test vocal and instrumental interaction around phrase endings"
+    ]
+  },
+  "simple_lines_musicality": [
+    "Short title unit gains force through countable rhythmic repetition, selective vowel sustain, changed narrative context and fuller final support",
+    "Care-image phrase gains completion from a brief vocal gap over continuing groove"
+  ],
+  "hook": {
+    "first_title_word_seconds": 17.1,
+    "first_run_window": "0:17.1-0:22.2",
+    "first_run_token_count": 11,
+    "first_run_pattern": "1+3+7",
+    "closing_run_window": "2:24.8-2:36.0",
+    "closing_run_token_count": 11,
+    "closing_terminal_vowel_window": "2:34.5-2:36.0",
+    "all_internal_returns_counted": false
+  },
+  "vocals": {
+    "lead_delivery": "alternates speech-shaped and more melodic phrasing",
+    "address_passage": "four lexical returns and two nonlexical ad-libs/responses, approximately 1:40-1:53.5",
+    "layering": "probable double/layer in fuller close; exact identity of apparent layer or processing unclear",
+    "melodic_range": "unmeasured",
+    "guest_vocal": "none distinctly heard in supplied capture"
+  },
+  "production": {
+    "findings": [
+      "Density reduction and re-entry create contrast without a total drum/bass dropout at 0:53 or before 2:12",
+      "Percussion and bass continue after the short 1:11-1:13 care-image phrase",
+      "Final title-word run has fuller low-end/drum support than opening"
+    ],
+    "exact_kick_snare_grid": "unmeasured",
+    "bass_notes_and_instrument_timbres": "unmeasured",
+    "stereo_width": "unmeasured"
+  },
+  "lyric_audio_interactions": [
+    {
+      "window": "0:10.6; 0:28.8; 1:23.5; 2:18.3",
+      "lyric_cue": "wrong / lost",
+      "finding": "Performed semantic variation in matching stressed slot; opening vowel rounder, later endings clipped"
+    },
+    {
+      "window": "0:17.1-0:22.2",
+      "lyric_cue": "title word",
+      "finding": "On or just ahead of pulse; 11 tokens with sustained-to-quick attack shape"
+    },
+    {
+      "window": "0:50.5-0:54.1",
+      "lyric_cue": "transition cue",
+      "finding": "Speech-shaped delivery over slightly opened arrangement; drums and bass continue"
+    },
+    {
+      "window": "0:58.8-1:03",
+      "lyric_cue": "cloth / blood",
+      "finding": "Cloth rather than growth and blood rather than gold heard; spelling of cloth/clothe unsettled"
+    },
+    {
+      "window": "1:08-1:10.3",
+      "lyric_cue": "waka",
+      "finding": "Entry essentially on main pulse; compressed unstressed setup; exact barline crossing unknown"
+    },
+    {
+      "window": "1:10.4-1:12.8",
+      "lyric_cue": "dandruff image",
+      "finding": "Brief vocal gap after phrase while groove continues; no distinct backing vocal answer"
+    },
+    {
+      "window": "1:40-1:53.5",
+      "lyric_cue": "shaw address",
+      "finding": "Four lexical returns, two nonlexical responses; final pronunciation approaches shawty"
+    },
+    {
+      "window": "2:07.3-2:12",
+      "lyric_cue": "your father / no go",
+      "finding": "Family objection probably uses no go; compressed lead and continuous rhythm section carry into final refrain"
+    },
+    {
+      "window": "2:24.8-2:36",
+      "lyric_cue": "closing title word",
+      "finding": "11 tokens and longest terminal vowel over fuller arrangement and probable layer"
+    }
+  ],
+  "story_units": [
+    "Opening loyalty claim and changed adverse condition",
+    "Catalogue of care and support",
+    "Risk and family objection",
+    "Final refrain under changed narrative stakes"
+  ],
+  "findings": [
+    "Main pulse approximately 105 BPM from two timed 8-beat samples",
+    "First vocal around 0:04.2 and first hook around 0:17.1",
+    "Final refrain begins around 2:12",
+    "Wrong versus lost is a performed variation",
+    "Both verified title-word runs contain 11 tokens",
+    "Instrumental continuity during vocal gaps contributes to phrase effect"
+  ],
+  "limitations": [
+    "Codex cannot directly hear the supplied WAV; listening findings are attributed to two preserved user-supplied analyst reports",
+    "Exact WAV capture URL and bit-for-bit master identity unconfirmed; audible solo/version consistency supports first-pass analysis",
+    "Risk-group word, person-address orthography, cloth/clothe spelling and identity of extra vocal layer remain uncertain",
+    "Key, metre, exact bar grid, melodic range, beat-event placement and quantitative vocal density unmeasured",
+    "Broader listening report's 140 BPM and first-vocal/final-refrain estimates superseded by targeted verification"
+  ],
+  "experimental_metrics": [
+    {
+      "name": "hook_run_token_shape",
+      "status": "song-specific observation",
+      "value": "11 tokens in each checked run; first run 1+3+7"
+    },
+    {
+      "name": "distant_pulse_sample_agreement",
+      "status": "two-window estimate",
+      "value": "8 intervals / 4.57 s in both sampled windows, approximately 105.0 BPM"
+    },
+    {
+      "name": "vocal_gap_groove_continuity",
+      "status": "qualitative observation",
+      "value": "percussion/bass continue through short post-phrase opening around 1:12"
+    }
+  ],
+  "source_recording_complete": true,
+  "analysis_complete_for_available_audio": true,
+  "source_recording_completeness_basis": "Preserved external Listening Analyst report hears coherent musical ending in the supplied capture; commercial-master bit identity not established",
+  "analysis_evidence_scope": "Full supplied capture, including a coherent ending; first song-level pass"
+}

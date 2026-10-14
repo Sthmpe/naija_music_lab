@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Moving",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": null,
+  "track_number": null,
+  "release_date": "2024-08-22",
+  "writers": [
+    "Elvira Anderfj?rd",
+    "pontus persson",
+    "Stanley Omah Didia",
+    "Richard Zastenker"
+  ],
+  "producers": [
+    "pontus persson",
+    "LIOHN"
+  ],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "approved solo non-project recording",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://www.shazam.com/song/1760873911/moving"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "text-level only"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "transcription pending verification"
+  },
+  "songwriting": {
+    "textual_reading": "The extremely repeated movement phrase is contrasted with verses about material limits and a bridge about being unavailable or out of time. The literal movement can suggest travel, evasiveness or change; the recording is needed to test which sense dominates."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "A single common verb carries the hook; repetition may leave semantic room for the verses.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "A single common verb carries the hook; repetition may leave semantic room for the verses.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "movement refrain",
+    "value beyond money",
+    "pressure and distance",
+    "unavailable bridge",
+    "refrain return"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Section attribution pending",
+    "Credits/transcription not independently verified"
+  ],
+  "experimental_metrics": {},
+  "corpus_group": "solo non-project recording"
+}

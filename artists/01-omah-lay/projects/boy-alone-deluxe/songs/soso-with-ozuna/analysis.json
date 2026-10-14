@@ -1,0 +1,78 @@
+{
+  "schema_version": "0.1.0",
+  "title": "soso (with Ozuna)",
+  "artist": "Omah Lay",
+  "features": [
+    "Ozuna"
+  ],
+  "project": "Boy Alone (Deluxe)",
+  "track_number": null,
+  "release_date": "2023-06-15",
+  "release_date_note": "Spotify deluxe edition; Shazam inherits original album date",
+  "writers": [
+    "Stanley Omah Didia",
+    "Tempoe"
+  ],
+  "producers": [
+    "Tempoe",
+    "Eduardo Alfonso Vargas",
+    "Dynell",
+    "Yazid Rivera"
+  ],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "deluxe edition track",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://open.spotify.com/album/0z1EmisGVrMzYZzr5RsgTq",
+    "https://www.shazam.com/song/1744453346/soso-with-ozuna"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "transcription-level only; untimed"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "transcription provisional"
+  },
+  "songwriting": {
+    "textual_reading": "The transcription retains the English pain-relief refrain and portions of the original Omah Lay text while adding Spanish passages credited in performance to Ozuna. The Spanish text changes the apparent focus toward flirtation and relational attraction; a bilingual check is needed before a confident thematic comparison."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "The comparison tests whether a fixed hook changes function when surrounded by another language and performer. Actual arrangement and vocal sequencing need both recordings.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "The comparison tests whether a fixed hook changes function when surrounded by another language and performer. Actual arrangement and vocal sequencing need both recordings.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "retained refrain",
+    "Spanish guest passages",
+    "original-language passages",
+    "refrain return"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Transcript not independently reconciled",
+    "Credits need independent check",
+    "No measured section map"
+  ],
+  "experimental_metrics": {}
+}

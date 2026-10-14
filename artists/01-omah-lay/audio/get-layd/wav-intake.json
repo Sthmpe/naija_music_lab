@@ -1,0 +1,125 @@
+{
+  "method": "std-lib PCM decode; 100ms whole-mix RMS threshold 0.002; envelope rise correlation gives unverified pulse candidates",
+  "songs": [
+    {
+      "file": "lo lo.wav",
+      "sha256": "5dd52e40758b2e8cd4a1a0e3a0902c6e2a5c4e31c8422eaf37f17f10d581613b",
+      "bytes": 32002604,
+      "channels": 2,
+      "bits": 16,
+      "sample_rate_hz": 44100,
+      "frames": 8000640,
+      "decoded_frames": 8000640,
+      "duration_seconds": 181.42,
+      "signal_start_seconds_approx": 4.8,
+      "signal_end_seconds_approx": 177.4,
+      "leading_low_signal_seconds_approx": 4.8,
+      "trailing_low_signal_seconds_approx": 4.02,
+      "peak_fraction_full_scale": 1.0,
+      "envelope_pulse_candidates": [
+        {
+          "bpm_equivalent": 50.0,
+          "correlation": 0.714
+        },
+        {
+          "bpm_equivalent": 200.0,
+          "correlation": 0.62
+        },
+        {
+          "bpm_equivalent": 66.7,
+          "correlation": 0.591
+        }
+      ]
+    },
+    {
+      "file": "you.wav",
+      "sha256": "65c8d2c9d44a5d7ea925cfa4bbe4bbcffcdacc96fc33ea3633249162d16cf425",
+      "bytes": 27481484,
+      "channels": 2,
+      "bits": 16,
+      "sample_rate_hz": 44100,
+      "frames": 6870360,
+      "decoded_frames": 6870360,
+      "duration_seconds": 155.79,
+      "signal_start_seconds_approx": 0.0,
+      "signal_end_seconds_approx": 155.79,
+      "leading_low_signal_seconds_approx": 0.0,
+      "trailing_low_signal_seconds_approx": 0.0,
+      "peak_fraction_full_scale": 1.0,
+      "envelope_pulse_candidates": [
+        {
+          "bpm_equivalent": 50.0,
+          "correlation": 0.433
+        },
+        {
+          "bpm_equivalent": 66.7,
+          "correlation": 0.251
+        },
+        {
+          "bpm_equivalent": 120.0,
+          "correlation": 0.231
+        }
+      ]
+    },
+    {
+      "file": "Bad influence.wav",
+      "sha256": "5f7648df58bce087d63d003826671671ae8ce8a68a4c2c8c9beb975c5073af62",
+      "bytes": 24422696,
+      "channels": 2,
+      "bits": 16,
+      "sample_rate_hz": 44100,
+      "frames": 6105663,
+      "decoded_frames": 6105663,
+      "duration_seconds": 138.45,
+      "signal_start_seconds_approx": 0.0,
+      "signal_end_seconds_approx": 137.2,
+      "leading_low_signal_seconds_approx": 0.0,
+      "trailing_low_signal_seconds_approx": 1.25,
+      "peak_fraction_full_scale": 0.998,
+      "envelope_pulse_candidates": [
+        {
+          "bpm_equivalent": 100.0,
+          "correlation": 0.773
+        },
+        {
+          "bpm_equivalent": 50.0,
+          "correlation": 0.613
+        },
+        {
+          "bpm_equivalent": 200.0,
+          "correlation": 0.298
+        }
+      ]
+    },
+    {
+      "file": "ye ye ye.wav",
+      "sha256": "0b23ab0ee6c5356f6785d7adc60b3a0b37223a2e480af2d1dfac9b7841d34668",
+      "bytes": 34279944,
+      "channels": 2,
+      "bits": 16,
+      "sample_rate_hz": 44100,
+      "frames": 8569975,
+      "decoded_frames": 8569975,
+      "duration_seconds": 194.33,
+      "signal_start_seconds_approx": 0.0,
+      "signal_end_seconds_approx": 194.33,
+      "leading_low_signal_seconds_approx": 0.0,
+      "trailing_low_signal_seconds_approx": 0.0,
+      "peak_fraction_full_scale": 1.0,
+      "envelope_pulse_candidates": [
+        {
+          "bpm_equivalent": 150.0,
+          "correlation": 0.354
+        },
+        {
+          "bpm_equivalent": 54.5,
+          "correlation": 0.248
+        },
+        {
+          "bpm_equivalent": 75.0,
+          "correlation": 0.191
+        }
+      ]
+    }
+  ]
+}

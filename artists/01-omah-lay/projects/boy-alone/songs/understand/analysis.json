@@ -1,0 +1,77 @@
+{
+  "schema_version": "0.1.0",
+  "title": "understand",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "Boy Alone",
+  "track_number": 7,
+  "release_date": "2022-07-14",
+  "release_date_note": "Apple Music displays July 14; Spotify page displays July 15 for album",
+  "duration_seconds": 174,
+  "duration_status": "Spotify-reported",
+  "writers": [
+    "Stanley Omah Didia"
+  ],
+  "producers": [
+    "Tempoe"
+  ],
+  "credits_status": "Shazam-reported; some song credits require reconciliation",
+  "bpm": 100,
+  "bpm_status": "Shazam platform metadata, not independently measured",
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "audio_status": "USER_FILE_REQUIRED",
+  "sources": [
+    "https://open.spotify.com/album/6A5x0fKoL7IBjeVy0UU8lq",
+    "https://www.shazam.com/song/1624954190/understand",
+    "https://music.apple.com/us/album/boy-alone/1624954180"
+  ],
+  "structure": {
+    "status": "transcription-level only; timed sections unknown"
+  },
+  "hook": {
+    "textual_hypothesis": "title word is withheld and completed through partial repetition",
+    "audio_verification_required": true
+  },
+  "songwriting": {
+    "textual_units": [
+      "sacrifices",
+      "bewilderment",
+      "public consequences",
+      "repeated refrain"
+    ]
+  },
+  "language": {
+    "status": "English/Nigerian Pidgin visible; local wording pending verification"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "sacrifices",
+    "bewilderment",
+    "public consequences",
+    "repeated refrain"
+  ],
+  "limitations": [
+    "Audio not heard",
+    "Transcription not independently reconciled",
+    "No validated musical section map"
+  ],
+  "single_status": "UNKNOWN",
+  "chart_performance": [],
+  "simple_lines_musicality": [],
+  "findings": [],
+  "experimental_metrics": []
+}

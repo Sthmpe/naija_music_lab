@@ -1,0 +1,311 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Song analysis",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema_version",
+    "title",
+    "artist",
+    "features",
+    "project",
+    "track_number",
+    "release_date",
+    "writers",
+    "producers",
+    "duration_seconds",
+    "bpm",
+    "tempo_stability",
+    "key_or_tonal_centre",
+    "time_signature",
+    "single_status",
+    "chart_performance",
+    "sources",
+    "audio_status",
+    "structure",
+    "cadence",
+    "phonetics",
+    "language",
+    "songwriting",
+    "simple_lines_musicality",
+    "hook",
+    "vocals",
+    "production",
+    "lyric_audio_interactions",
+    "story_units",
+    "findings",
+    "limitations",
+    "experimental_metrics"
+  ],
+  "properties": {
+    "schema_version": {
+      "description": "schema version with evidence/status in analysis.md",
+      "type": "string"
+    },
+    "title": {
+      "description": "title with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "artist": {
+      "description": "artist with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "features": {
+      "description": "features with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "project": {
+      "description": "project with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "track_number": {
+      "description": "track number with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "release_date": {
+      "description": "release date with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "writers": {
+      "description": "writers with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "producers": {
+      "description": "producers with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "duration_seconds": {
+      "description": "duration seconds with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "bpm": {
+      "description": "bpm with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "tempo_stability": {
+      "description": "tempo stability with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "key_or_tonal_centre": {
+      "description": "key or tonal centre with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "time_signature": {
+      "description": "time signature with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "single_status": {
+      "description": "single status with evidence/status in analysis.md",
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "chart_performance": {
+      "description": "chart performance with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "sources": {
+      "description": "sources with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "audio_status": {
+      "description": "audio status with evidence/status in analysis.md",
+      "type": "string"
+    },
+    "structure": {
+      "description": "structure with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "cadence": {
+      "description": "cadence with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "phonetics": {
+      "description": "phonetics with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "language": {
+      "description": "language with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "songwriting": {
+      "description": "songwriting with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "simple_lines_musicality": {
+      "description": "simple lines musicality with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "hook": {
+      "description": "hook with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "vocals": {
+      "description": "vocals with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "production": {
+      "description": "production with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "lyric_audio_interactions": {
+      "description": "lyric audio interactions with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "story_units": {
+      "description": "story units with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "findings": {
+      "description": "findings with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "limitations": {
+      "description": "limitations with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "experimental_metrics": {
+      "description": "experimental metrics with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "musical_language_observations": {
+      "description": "Optional experimental phrase-level observations. Use short cues, approximate timestamps, evidence layers and confidence for concrete musical-language mechanisms; do not infer heard details from lyrics alone.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "timestamp": { "type": ["string", "number", "null"] },
+          "short_cue": { "type": "string" },
+          "dimension": { "enum": ["SINGABILITY", "PHONETIC_STICKINESS", "MELODIC_AFFORDANCE", "NIGERIAN_CONVERSATIONAL_RHYTHM", "PHRASE_LOOSENESS", "SEMANTIC_SONIC_LOAD", "VOCABLE_BEHAVIOUR", "BOUNCE", "PHONETIC_RHYME", "INTERNAL_RHYTHM", "MEMORABLE_VOCAL_SOUNDS", "PLAYFUL_PHRASING", "CODE_SWITCH_FUNCTION", "REPETITION_REWARD", "LANDING_WORD_BEHAVIOUR"] },
+          "bounce_mechanism": { "type": "string" },
+          "mouth_feel": { "type": "string" },
+          "singability": { "type": "string" },
+          "phonetic_rhyme_pattern": { "type": "string" },
+          "internal_rhythm_pattern": { "type": "string" },
+          "conversational_looseness": { "type": "string" },
+          "vocal_sound_nucleus": { "type": "string" },
+          "playful_phrasing": { "enum": ["PLAYFUL_IN_MEANING", "PLAYFUL_IN_SOUND", "PLAYFUL_IN_DELIVERY"] },
+          "code_switch_function": { "type": "array", "items": { "enum": ["rhythm", "intimacy", "emphasis", "humour", "rhyme", "syllable_economy", "cultural_specificity", "conversational_naturalness", "melodic_affordance", "other"] } },
+          "repetition_reward_mechanism": { "type": "string" },
+          "melodic_affordance": { "type": "string" },
+          "landing_word_behaviour": { "type": "string" },
+          "semantic_sonic_load": { "enum": ["SEMANTIC_DOMINANT", "SONIC_DOMINANT", "BALANCED"] },
+          "evidence_status": { "type": "string" },
+          "confidence": { "type": "string" }
+        }
+      }
+    },
+    "hook_phonetic_engineering": {
+      "description": "Optional experimental hook sound analysis, including phonetic_nucleus when supported, vowel and syllable profile, repeatability, response potential, and context-dependent meaning. Memorability remains a hypothesis unless tested.",
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "phonetic_nucleus": { "type": ["string", "null"] },
+        "vocal_sound_nucleus": { "type": ["string", "null"] },
+        "repetition_reward_mechanism": { "type": "string" },
+        "evidence_status": { "type": "string" },
+        "confidence": { "type": "string" }
+      }
+    },
+    "generation_relevance": {
+      "description": "Optional original-writing candidates using observation, mechanism, possible_original_writing_use, evidence_status, confidence, exceptions, and next_test. No identifiable source material should be copied.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "observation": { "type": "string" },
+          "mechanism": { "type": "string" },
+          "possible_original_writing_use": { "type": "string" },
+          "evidence_status": { "type": "string" },
+          "confidence": { "type": "string" },
+          "scope": { "type": "string" },
+          "support": { "type": "string" },
+          "exceptions": { "type": "array" },
+          "use_case_tags": { "type": "array" },
+          "next_test": { "type": "string" }
+        }
+      }
+    },
+    "ai_writing_failure_signals": {
+      "description": "Optional evidence-backed, testable hypotheses about artificial-sounding writing, with counterexamples; not universal defects.",
+      "type": "array",
+      "items": { "type": "object" }
+    },
+    "contemporary_language_observations": {
+      "description": "Optional meaningful slang/local/coinage/shortened-form records. Keep source evidence and dated currency claims separate from interpretation; never infer commercial causality from an expression.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "short_cue": { "type": "string" },
+          "timestamp": { "type": ["string", "number", "null"] },
+          "source": { "type": "string" },
+          "date_observed": { "type": "string" },
+          "performed_pronunciation": { "type": ["string", "null"] },
+          "proposed_written_form": { "type": ["string", "null"] },
+          "language_register": { "type": ["string", "null"] },
+          "meaning_in_context": { "type": ["string", "null"] },
+          "alternate_meanings": { "type": "array", "items": { "type": "string" } },
+          "slang_function": { "type": "array", "items": { "type": "string" } },
+          "rhythmic_value": { "type": ["string", "null"] },
+          "slang_phonetic_value": { "type": ["string", "null"] },
+          "code_switch_trigger": { "type": ["string", "null"] },
+          "character_social_role": { "type": ["string", "null"] },
+          "quotability_mechanism": { "type": ["string", "null"] },
+          "freshness": { "enum": ["established", "fashionable", "regional", "coinage_candidate", "possibly_dated", "uncertain"] },
+          "scope": { "enum": ["ARTIST_SPECIFIC_CANDIDATE", "SCENE_WIDE_CANDIDATE", "GENERAL_NIGERIAN_USAGE", "UNCERTAIN"] },
+          "reuse_risk": { "type": ["string", "null"] },
+          "evidence_status": { "type": "string" },
+          "phonetic_confidence": { "type": "string" },
+          "spelling_confidence": { "type": "string" },
+          "meaning_confidence": { "type": "string" }
+        }
+      }
+    }
+  }
+}

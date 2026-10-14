@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Audio analysis",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "audio_status",
+    "structure",
+    "cadence",
+    "phonetics",
+    "vocals",
+    "production",
+    "lyric_audio_interactions"
+  ],
+  "properties": {
+    "audio_status": {
+      "description": "audio status with evidence/status in analysis.md",
+      "type": "string"
+    },
+    "structure": {
+      "description": "structure with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "cadence": {
+      "description": "cadence with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "phonetics": {
+      "description": "phonetics with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "vocals": {
+      "description": "vocals with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "production": {
+      "description": "production with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "lyric_audio_interactions": {
+      "description": "lyric audio interactions with evidence/status in analysis.md",
+      "type": "array"
+    }
+  }
+}

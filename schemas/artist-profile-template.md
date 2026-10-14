@@ -1,0 +1,3 @@
+# Artist profile — [artist]
+
+Approved project/single/collaboration scope; analysis coverage; chronology; evidence table with song and project links; strong/repeated, probable, possible, project-specific and song-specific findings; counterexamples; writing, vocal, production, collaboration and evolution synthesis; transferability limits; originality guardrails; unresolved issues. Link to the separate `collaboration-behaviour.md` using its standard template. Create synthesis only after all approved songs are analysed. Preserve original-project eras and deluxe extensions as distinct levels in evolution analysis.

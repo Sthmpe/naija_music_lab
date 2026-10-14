@@ -1,0 +1,67 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Company",
+  "artist": "Clean Bandit, Chlöe, Omah Lay",
+  "features": [
+    "Chlöe",
+    "Clean Bandit"
+  ],
+  "project": null,
+  "track_number": null,
+  "release_date": "2026-09-18",
+  "writers": [],
+  "producers": [],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "approved collaborative non-project / current release",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO3gZZdL?nd=1"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "pending authoritative lyric and audio"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "transcription pending verification"
+  },
+  "songwriting": {
+    "textual_reading": "Spotify and Apple credit this to Clean Bandit, Chlöe and Omah Lay. No authoritative full lyric transcription or section attribution has been verified here. Omah Lay has a substantial credited vocal role, but exact section, words and writing contribution remain to be checked."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "Potential contrast between different performers and a shared company hook is a question for audio, not yet a finding.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "Potential contrast between different performers and a shared company hook is a question for audio, not yet a finding.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "collaborative non-project / current release",
+    "section sequence pending"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Section attribution pending",
+    "Credits/transcription not independently verified"
+  ],
+  "experimental_metrics": {},
+  "corpus_group": "collaborative non-project / current release"
+}

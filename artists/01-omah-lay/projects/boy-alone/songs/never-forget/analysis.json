@@ -1,0 +1,80 @@
+{
+  "schema_version": "0.1.0",
+  "title": "never forget",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "Boy Alone",
+  "track_number": 8,
+  "release_date": "2022-07-14",
+  "release_date_note": "Apple Music displays July 14; Spotify page displays July 15 for album",
+  "duration_seconds": 189,
+  "duration_status": "Spotify-reported",
+  "writers": [
+    "Stanley Omah Didia",
+    "Oluwasemilogo Banjo"
+  ],
+  "producers": [
+    "Semzi"
+  ],
+  "credits_status": "Shazam-reported; some song credits require reconciliation",
+  "bpm": 103,
+  "bpm_status": "Shazam platform metadata, not independently measured",
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "audio_status": "USER_FILE_REQUIRED",
+  "sources": [
+    "https://open.spotify.com/album/6A5x0fKoL7IBjeVy0UU8lq",
+    "https://www.shazam.com/song/1624954198/never-forget?tab=lyrics",
+    "https://music.apple.com/us/album/boy-alone/1624954180"
+  ],
+  "structure": {
+    "status": "transcription-level only; timed sections unknown"
+  },
+  "hook": {
+    "textual_hypothesis": "short pledge recurs across origin and loss images",
+    "audio_verification_required": true
+  },
+  "songwriting": {
+    "textual_units": [
+      "absence",
+      "origins",
+      "pledge",
+      "hidden hurt",
+      "pledge return"
+    ]
+  },
+  "language": {
+    "status": "English/Nigerian Pidgin visible; local wording pending verification"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "absence",
+    "origins",
+    "pledge",
+    "hidden hurt",
+    "pledge return"
+  ],
+  "limitations": [
+    "Audio not heard",
+    "Transcription not independently reconciled",
+    "No validated musical section map"
+  ],
+  "single_status": "UNKNOWN",
+  "chart_performance": [],
+  "simple_lines_musicality": [],
+  "findings": [],
+  "experimental_metrics": []
+}

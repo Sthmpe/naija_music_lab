@@ -1,0 +1,14 @@
+# Research inputs and local output
+*.mp3
+*.wav
+*.aac
+*.m4a
+*.flac
+*.ogg
+*.opus
+*.aiff
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example

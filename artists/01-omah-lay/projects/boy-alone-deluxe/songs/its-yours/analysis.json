@@ -1,0 +1,74 @@
+{
+  "schema_version": "0.1.0",
+  "title": "it's yours",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "Boy Alone (Deluxe)",
+  "track_number": null,
+  "release_date": "2023-06-15",
+  "release_date_note": "Spotify deluxe edition; Shazam inherits original album date",
+  "writers": [
+    "Stanley Omah Didia",
+    "Oluwasemilogo Banjo"
+  ],
+  "producers": [
+    "Omah Lay",
+    "Semzi"
+  ],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "deluxe edition track",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://open.spotify.com/album/0z1EmisGVrMzYZzr5RsgTq",
+    "https://www.shazam.com/song/1744452989/its-yours"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "transcription-level only; untimed"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "transcription provisional"
+  },
+  "songwriting": {
+    "textual_reading": "The transcription mixes loyalty and availability with social freedom, possessions and a warning about a relationship. The repeated title phrase works as a short conditional assurance, while the later possessive language complicates its meaning."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "The text repeats a familiar phrase enough to invite audience recall; its musical realization is unknown.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "The text repeats a familiar phrase enough to invite audience recall; its musical realization is unknown.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "pledge",
+    "group/social life",
+    "repeated conditional assurance",
+    "possessive warning"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Transcript not independently reconciled",
+    "Credits need independent check",
+    "No measured section map"
+  ],
+  "experimental_metrics": {}
+}

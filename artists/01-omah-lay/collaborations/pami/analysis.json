@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1.0",
+  "title": "PAMI ? DJ Tunez feat. Wizkid, Adekunle Gold & Omah Lay",
+  "artist": "DJ Tunez",
+  "features": [
+    "Omah Lay"
+  ],
+  "project": null,
+  "track_number": null,
+  "release_date": "2020-08-13",
+  "writers": [],
+  "producers": [],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "approved primary collaboration",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://www.shazam.com/song/1650879018/pami-feat-wizkid-adekunle-gold-and-omah-lay",
+    "https://thenativemag.com/dj-tunez-wizkid-adekunle-gold-pami/"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "text-level only; performer sections pending"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "guest words and language pending verification"
+  },
+  "songwriting": {
+    "textual_reading": "The record is a multi-singer sequence built around a short recurring title cry. Contemporary reporting says Omah Lay supplies hook vocals. The printed text alone cannot securely assign each verse; listen before comparing entrance speed or section ownership.",
+    "omah_lay_scope": "Omah Lay hook reported by The Native; verify in audio"
+  },
+  "simple_lines_musicality": {
+    "status": "audio pending"
+  },
+  "hook": {
+    "hypothesis": "The record is a multi-singer sequence built around a short recurring title cry. Contemporary reporting says Omah Lay supplies hook vocals. The printed text alone cannot securely assign each verse; listen before comparing entrance speed or section ownership.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending; identity of sections to verify"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Performer sections unverified",
+    "Credits need reconciliation"
+  ],
+  "experimental_metrics": {}
+}

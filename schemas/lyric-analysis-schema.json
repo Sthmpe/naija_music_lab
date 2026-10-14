@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Lyric analysis",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "language",
+    "songwriting",
+    "simple_lines_musicality",
+    "hook",
+    "story_units"
+  ],
+  "properties": {
+    "language": {
+      "description": "language with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "songwriting": {
+      "description": "songwriting with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "simple_lines_musicality": {
+      "description": "simple lines musicality with evidence/status in analysis.md",
+      "type": "array"
+    },
+    "hook": {
+      "description": "hook with evidence/status in analysis.md",
+      "type": "object"
+    },
+    "story_units": {
+      "description": "story units with evidence/status in analysis.md",
+      "type": "array"
+    }
+  }
+}

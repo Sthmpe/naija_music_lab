@@ -1,0 +1,305 @@
+﻿[
+  {
+    "file": "omah_lay_damn.mp3",
+    "rate_hz": 44100,
+    "channels": 2,
+    "encoding_code": 208,
+    "sample_width_bytes": 2,
+    "decoded_samples_per_channel": 7182584,
+    "decoded_duration_seconds": 162.87,
+    "decode_errors": [],
+    "peak_pcm_fraction": 0.557983,
+    "near_clip_sample_fraction": 0.0,
+    "rms_threshold_0_002_first_active_s": 0.0,
+    "rms_threshold_0_002_last_active_s": 156.8,
+    "rms_0_1_second_buckets": {
+      "count": 1628,
+      "first_10": [
+        {
+          "rms": 0.020479,
+          "peak": 0.062714
+        },
+        {
+          "rms": 0.014774,
+          "peak": 0.047211
+        },
+        {
+          "rms": 0.010882,
+          "peak": 0.030304
+        },
+        {
+          "rms": 0.008335,
+          "peak": 0.020752
+        },
+        {
+          "rms": 0.005694,
+          "peak": 0.015167
+        },
+        {
+          "rms": 0.004802,
+          "peak": 0.012238
+        },
+        {
+          "rms": 0.003388,
+          "peak": 0.00882
+        },
+        {
+          "rms": 0.051223,
+          "peak": 0.223663
+        },
+        {
+          "rms": 0.044448,
+          "peak": 0.109161
+        },
+        {
+          "rms": 0.025658,
+          "peak": 0.064911
+        }
+      ],
+      "last_10": [
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "lo lo.mp3",
+    "rate_hz": 44100,
+    "channels": 2,
+    "encoding_code": 208,
+    "sample_width_bytes": 2,
+    "decoded_samples_per_channel": 8000640,
+    "decoded_duration_seconds": 181.42,
+    "decode_errors": [],
+    "peak_pcm_fraction": 1.0,
+    "near_clip_sample_fraction": 0.0003892,
+    "rms_threshold_0_002_first_active_s": 4.8,
+    "rms_threshold_0_002_last_active_s": 177.4,
+    "rms_0_1_second_buckets": {
+      "count": 1814,
+      "first_10": [
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        }
+      ],
+      "last_10": [
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "bad influence.mp3",
+    "rate_hz": 44100,
+    "channels": 2,
+    "encoding_code": 208,
+    "sample_width_bytes": 2,
+    "decoded_samples_per_channel": 6105663,
+    "decoded_duration_seconds": 138.45,
+    "decode_errors": [],
+    "peak_pcm_fraction": 0.998077,
+    "near_clip_sample_fraction": 0.0,
+    "rms_threshold_0_002_first_active_s": 0.0,
+    "rms_threshold_0_002_last_active_s": 137.2,
+    "rms_0_1_second_buckets": {
+      "count": 1384,
+      "first_10": [
+        {
+          "rms": 0.030911,
+          "peak": 0.105164
+        },
+        {
+          "rms": 0.028374,
+          "peak": 0.110107
+        },
+        {
+          "rms": 0.022997,
+          "peak": 0.068695
+        },
+        {
+          "rms": 0.024993,
+          "peak": 0.099609
+        },
+        {
+          "rms": 0.030639,
+          "peak": 0.10022
+        },
+        {
+          "rms": 0.042567,
+          "peak": 0.126587
+        },
+        {
+          "rms": 0.050285,
+          "peak": 0.159607
+        },
+        {
+          "rms": 0.038795,
+          "peak": 0.146515
+        },
+        {
+          "rms": 0.051157,
+          "peak": 0.203522
+        },
+        {
+          "rms": 0.046002,
+          "peak": 0.182465
+        }
+      ],
+      "last_10": [
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 0.0,
+          "peak": 0.0
+        },
+        {
+          "rms": 2.3e-05,
+          "peak": 0.000122
+        },
+        {
+          "rms": 0.000121,
+          "peak": 0.000488
+        },
+        {
+          "rms": 0.00013,
+          "peak": 0.000519
+        }
+      ]
+    }
+  }
+]

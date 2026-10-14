@@ -1,0 +1,71 @@
+{
+  "schema_version": "0.1.0",
+  "title": "HOLY GHOST",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "CLARITY OF MIND",
+  "track_number": 11,
+  "release_date": "2026-04-03",
+  "writers": [
+    "Stanley Omah Didia",
+    "Olalekan Bello"
+  ],
+  "producers": [
+    "Lekaa"
+  ],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "album track; earlier single status not yet reconciled",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://music.apple.com/us/album/clarity-of-mind/1880890112",
+    "https://www.shazam.com/song/1880890457/holy-ghost"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "transcription only"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "English and Nigerian Pidgin visible; references pending check"
+  },
+  "songwriting": {
+    "textual_reading": "The published chorus places religious fire, confidence, intoxication, romantic desire and Mami Wata in one semantic field. The repeated dance instruction functions as a second verbal anchor. This is an interpretive reading of the text, not a claim about groove."
+  },
+  "simple_lines_musicality": {
+    "hypothesis": "Two plain calls provide different possible audience entry points: invocation and movement.",
+    "audio_verification_required": true
+  },
+  "hook": {
+    "hypothesis": "Two plain calls provide different possible audience entry points: invocation and movement.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "spiritual invocation",
+    "desire and altered state",
+    "dance command",
+    "verse reflection"
+  ],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Transcription not independently checked",
+    "No timed musical section map"
+  ],
+  "experimental_metrics": {}
+}

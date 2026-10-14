@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1.0",
+  "title": "With You ? Davido feat. Omah Lay",
+  "artist": "Davido",
+  "features": [
+    "Omah Lay"
+  ],
+  "project": null,
+  "track_number": null,
+  "release_date": "2025-04-18",
+  "writers": [],
+  "producers": [],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "approved primary collaboration",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://www.shazam.com/song/1780380430/with-you-feat-omah-lay",
+    "https://www.youtube.com/watch?v=XCjU9qbfv1U"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "text-level only; performer sections pending"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "guest words and language pending verification"
+  },
+  "songwriting": {
+    "textual_reading": "The transcribed opening treats separation as hard to imagine, followed by a highly repeated love phrase and a more locally textured second passage. Shazam credits Omah Lay as a composer but its performer block lists only Davido, so vocal sections must be checked against the official recording before assigning them.",
+    "omah_lay_scope": "composer credited; vocal attribution pending"
+  },
+  "simple_lines_musicality": {
+    "status": "audio pending"
+  },
+  "hook": {
+    "hypothesis": "The transcribed opening treats separation as hard to imagine, followed by a highly repeated love phrase and a more locally textured second passage. Shazam credits Omah Lay as a composer but its performer block lists only Davido, so vocal sections must be checked against the official recording before assigning them.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending; identity of sections to verify"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Performer sections unverified",
+    "Credits need reconciliation"
+  ],
+  "experimental_metrics": {}
+}

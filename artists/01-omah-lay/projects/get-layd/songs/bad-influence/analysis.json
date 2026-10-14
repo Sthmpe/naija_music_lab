@@ -1,0 +1,306 @@
+{
+  "schema_version": "0.2.0",
+  "title": "Bad Influence",
+  "artist": "Omah Lay",
+  "project": "Get Layd",
+  "track_number": 4,
+  "release_date": "2020-05-22",
+  "duration_seconds": 138.45,
+  "duration_status": "measured current WAV capture, including any padding or cutoff; EP reference remains in capture intake",
+  "writers": [
+    "Stanley Omah Didia"
+  ],
+  "producers": [
+    "Omah Lay"
+  ],
+  "credits_status": "Shazam-reported",
+  "audio_status": "EXTERNAL_LISTENING_VERIFIED_WITH_LIMITS",
+  "bpm": 97.07,
+  "key_or_tonal_centre": null,
+  "time_signature": "plausible 4/4 grouping from external listening; not confirmed beat grid",
+  "sources": [
+    "https://open.spotify.com/album/3wzSqNDc2jNNV42XLkkDMA",
+    "https://www.shazam.com/song/1528527073/bad-influence",
+    "https://www.youtube.com/watch?v=o5KyLuuqFms",
+    "https://audiomack.com/omah-lay/song/bad-influence",
+    "https://afrikalyrics.com/omah-lay-bad-influence-lyrics",
+    "https://www.youtube.com/watch?v=2CSZKpQ0J5s",
+    "artists/01-omah-lay/audio/get-layd/wav-intake.json",
+    {
+      "type": "external_listening",
+      "path": "listening-analysis.md",
+      "date_received": "2026-09-27",
+      "note": "user supplied; heard claims attributed to Listening Analyst"
+    },
+    {
+      "type": "technical_measurement",
+      "path": "../../../../audio/get-layd/wav-intake.json",
+      "note": "local PCM duration, format, signal boundaries; not listening"
+    },
+    {
+      "type": "lyric_research",
+      "path": "../../../../lyrics/get-layd/bad-influence.md"
+    }
+  ],
+  "structure": {
+    "first_vocal_seconds_approx": 0.0,
+    "first_hook_material_seconds_approx": 7.5,
+    "first_extended_hook_seconds_approx": null,
+    "music_end_seconds_approx": 137.2,
+    "capture_end_seconds": 138.45,
+    "landmarks": [
+      {
+        "start_seconds_approx": 0,
+        "end_seconds_approx": 7.5,
+        "function": "drink/disorientation opening"
+      },
+      {
+        "start_seconds_approx": 7.5,
+        "end_seconds_approx": 28.5,
+        "function": "damage refrain"
+      },
+      {
+        "start_seconds_approx": 28.5,
+        "end_seconds_approx": 34,
+        "function": "call-like response"
+      },
+      {
+        "start_seconds_approx": 34,
+        "end_seconds_approx": 62,
+        "function": "repetition cascade"
+      },
+      {
+        "start_seconds_approx": 62,
+        "end_seconds_approx": 95.8,
+        "function": "doctor/drinking/Sambisa narrative"
+      },
+      {
+        "start_seconds_approx": 95.8,
+        "end_seconds_approx": 117.8,
+        "function": "damage refrain return"
+      },
+      {
+        "start_seconds_approx": 117.8,
+        "end_seconds_approx": 137.2,
+        "function": "response/outro cycles"
+      }
+    ],
+    "status": "complete capture"
+  },
+  "hook": {
+    "first_refrain_seconds": 7.5,
+    "cascade_full_initial_units": 3,
+    "later_group_shape": "two complete plus one truncated in several cells",
+    "response_cycles_early_approx": 1,
+    "response_cycles_late_approx": 2
+  },
+  "language": {
+    "heard_or_text_supported": [
+      "English",
+      "Nigerian Pidgin",
+      "Sambisa local reference"
+    ],
+    "language_ratio": "unmeasured",
+    "uncertain_words": "see lyric correction log"
+  },
+  "cadence": {
+    "heard_findings": [
+      "short Pidgin setups into stressed complaint words",
+      "cascade of three complete units then two complete plus truncated units",
+      "doctor section longer and wider-spaced; no tempo acceleration"
+    ],
+    "phrase_duration": "qualitative short/long contrast; no complete distribution measured",
+    "onset_vs_beat": "selected analyst estimates in alignment; exact grid unverified",
+    "barline_crossing": "unverified",
+    "vocal_density": "qualitative changes only; not quantified"
+  },
+  "phonetics": {
+    "heard_findings": [
+      "now/down /aʊ/ assonance",
+      "plans/kprass/ambulance loose /a/ family",
+      "k͡p/pras sound with uncertain orthography",
+      "Sambisa approximately sam-bi-sa with middle stress"
+    ],
+    "rhyme_and_sound": "see timestamped alignment and analysis.md",
+    "uncertainty": "orthography cannot always be resolved from sound alone"
+  },
+  "vocals": {
+    "heard_findings": [
+      "compact stressed complaint delivery",
+      "more sustained and spacious doctor passage",
+      "answering vocal present, identity and lexical text unclear"
+    ],
+    "register_range": "unmeasured",
+    "melodic_contour": "qualitative in analysis.md; no pitch transcription",
+    "melodic_range": "unmeasured",
+    "backing_vocal_identity": "unverified"
+  },
+  "production": {
+    "heard_findings": [
+      "bass/percussion continuous beneath phrase gaps",
+      "guitar-like plucked part predates lyric guitar mention",
+      "energy contrast produced by phrase density"
+    ],
+    "kick_and_rim_grid": "unmeasured",
+    "bass_movement": "qualitative groove continuity only; notes unmeasured",
+    "silence_and_negative_space": "vocal gaps over continuing arrangement; no quantified silence map",
+    "loudness_dynamics": "not perceptually calibrated or LUFS measured",
+    "transitions_and_energy": "see section landmarks; approximate"
+  },
+  "lyric_audio_interactions": [
+    {
+      "window": "0:07.7-0:18.8",
+      "short_cue": "eye glass / plans / kprass / ambulance",
+      "heard_or_interpreted_mechanism": "stressed targets, loose vowel family, probable pickup to ambulance",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "0:28.5-0:34",
+      "short_cue": "response",
+      "heard_or_interpreted_mechanism": "real answer vocal; language/performer unclear",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "0:34-1:02",
+      "short_cue": "got me now / down",
+      "heard_or_interpreted_mechanism": "complete unit then truncated units; perceived acceleration without tempo rise",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "1:02-1:35.8",
+      "short_cue": "drinking / Sambisa",
+      "heard_or_interpreted_mechanism": "drinking resolves source dispute; longer spaces; mid-stressed place name",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "1:35.8-1:57.8",
+      "short_cue": "damage refrain",
+      "heard_or_interpreted_mechanism": "return after narrative changes emotional context",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    }
+  ],
+  "story_units": [
+    "drink/disorientation opening",
+    "damage refrain",
+    "call-like response",
+    "repetition cascade",
+    "doctor/drinking/Sambisa narrative",
+    "damage refrain return",
+    "response/outro cycles"
+  ],
+  "limitations": [
+    "prass/kprass orthography unsettled",
+    "response words/language/performer unknown",
+    "exact single-to-EP master relationship unverified",
+    "key, melodic range, exact grid, kick/rim placement and quantitative vocal density unmeasured",
+    "Codex did not directly hear WAV; audible claims come from separate preserved Listening Analyst report",
+    "release credits and dates are indexed platform metadata, not independent publishing registrations"
+  ],
+  "features": [],
+  "tempo_stability": "two distant analyst-timed pulse windows agree approximately; full-song grid not measured",
+  "single_status": "approved original Get Layd EP recording; earlier single/master equivalence not independently proven",
+  "chart_performance": [],
+  "songwriting": {
+    "narrative_and_structure": "see analysis.md; source-derived story interpretation joined to reported listening",
+    "generative_lessons": [
+      {
+        "observation": "repeated unit loses its ending",
+        "mechanism": "learned completion permits shorter return and perceived acceleration",
+        "possible_transferable_principle": "test phrase truncation without tempo change",
+        "use_case_tags": [
+          "CADENCE_DOCTOR",
+          "HOOK_DOCTOR"
+        ],
+        "status": "song-level hypothesis; requires cross-song validation"
+      },
+      {
+        "observation": "doctor narrative widens phrase space",
+        "mechanism": "density contrast makes refrain return heavier",
+        "possible_transferable_principle": "use phrase-space contrast to advance story",
+        "use_case_tags": [
+          "STORY_EDITOR",
+          "PRODUCTION_AWARE_WRITER"
+        ],
+        "status": "song-level hypothesis; requires cross-song validation"
+      }
+    ]
+  },
+  "simple_lines_musicality": [
+    "test phrase truncation without tempo change",
+    "use phrase-space contrast to advance story"
+  ],
+  "findings": [
+    "short Pidgin setups into stressed complaint words",
+    "cascade of three complete units then two complete plus truncated units",
+    "doctor section longer and wider-spaced; no tempo acceleration",
+    "now/down /aʊ/ assonance",
+    "plans/kprass/ambulance loose /a/ family",
+    "k͡p/pras sound with uncertain orthography",
+    "Sambisa approximately sam-bi-sa with middle stress",
+    "bass/percussion continuous beneath phrase gaps",
+    "guitar-like plucked part predates lyric guitar mention",
+    "energy contrast produced by phrase density"
+  ],
+  "experimental_metrics": [
+    {
+      "name": "distant_principal_pulse_samples",
+      "value": "16 principal beat intervals / about 9.89 s in two distant analyst-timed windows; approximately 97.1 BPM; Shazam 96 BPM",
+      "provenance": "analyst timed beat intervals; arithmetic checked by Codex",
+      "status": "two-window estimate"
+    },
+    {
+      "name": "capture_completion",
+      "value": "musically complete in supplied capture",
+      "provenance": "local WAV endpoint plus external listening",
+      "status": "first-pass evidence"
+    }
+  ],
+  "audio_discovery_status": "Broad discovery completed 2026-09-24; official and licensed page listings found, no audio bytes technically accessible in this environment",
+  "audio_acquisition_record": "artists/01-omah-lay/audio/get-layd/acquisition.md",
+  "lyric_verification_record": "artists/01-omah-lay/lyrics/get-layd/bad-influence.md",
+  "capture_intake": {
+    "checked_date": "2026-09-25",
+    "path": "artists/01-omah-lay/audio/get-layd/bad influence.mp3",
+    "capture_provenance": "user states private capture of computer playback",
+    "decoded_duration_seconds": 138.45,
+    "format": "MPEG-1 Layer III 320 kb/s CBR 44.1 kHz joint stereo; no ID3",
+    "identity_status": "not verified by listening",
+    "note": "Decoded with no frame errors; duration plausible; no auditory identity check",
+    "technical_record": "artists/01-omah-lay/audio/get-layd/technical-intake.md"
+  },
+  "analysis_completion_status": "COMPLETE_FIRST_SONG_LEVEL_PASS",
+  "bpm_status": "16 principal beat intervals / about 9.89 s in two distant analyst-timed windows; approximately 97.1 BPM; Shazam 96 BPM",
+  "capture_intake_current": {
+    "checked_date": "2026-09-26",
+    "path": "artists/01-omah-lay/audio/get-layd/Bad influence.wav",
+    "format": "uncompressed WAV; 16-bit stereo PCM; 44.1 kHz",
+    "sha256": "5f7648df58bce087d63d003826671671ae8ce8a68a4c2c8c9beb975c5073af62",
+    "decoded_duration_seconds": 138.45,
+    "signal_start_seconds_approx": 0.0,
+    "signal_end_seconds_approx": 137.2,
+    "leading_low_signal_seconds_approx": 0.0,
+    "trailing_low_signal_seconds_approx": 1.25,
+    "declared_frames": 6105663,
+    "decoded_frames": 6105663,
+    "version_identity": "audibly consistent with approved solo studio EP track; no obvious remix, guest, live, speed alteration",
+    "technical_record": "artists/01-omah-lay/audio/get-layd/technical-intake.md",
+    "listening_evidence": "listening-analysis.md; user-supplied audio-capable analyst report, not Codex direct listening"
+  },
+  "evidence_layers": {
+    "source_metadata": "EP/Shazam and indexed source records",
+    "lyrical": "lyrics/get-layd/bad-influence.md; Shazam/Afrika source disagreements",
+    "technical_audio": "audio/get-layd/wav-intake.json and technical-intake.md",
+    "heard": "listening-analysis.md preserved from user attachment",
+    "interpreted": "analysis.md sections explicitly labelled as interpretation or possible principle"
+  },
+  "version_identity": {
+    "assessment": "audibly consistent with approved solo studio EP track; no obvious remix, guest, live, speed alteration",
+    "bit_identical_master": "unverified",
+    "capture_source_url": "unverified"
+  },
+  "completion_blocker": null,
+  "source_recording_complete": true,
+  "analysis_complete_for_available_audio": true,
+  "source_recording_completeness_basis": "Preserved external Listening Analyst report hears coherent musical ending in the supplied capture; commercial-master bit identity not established",
+  "analysis_evidence_scope": "Full supplied capture, including a coherent ending; first song-level pass"
+}

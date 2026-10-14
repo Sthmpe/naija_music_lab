@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Philo ? Bella Shmurda & Omah Lay",
+  "artist": "Bella Shmurda & Omah Lay",
+  "features": [
+    "Omah Lay"
+  ],
+  "project": null,
+  "track_number": null,
+  "release_date": "2022-10-26",
+  "writers": [],
+  "producers": [],
+  "duration_seconds": null,
+  "bpm": null,
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "single_status": "approved primary collaboration",
+  "chart_performance": "unverified",
+  "sources": [
+    "https://www.shazam.com/song/1647422113/philo",
+    "https://music.apple.com/us/album/hypertension/1647422092"
+  ],
+  "audio_status": "USER_FILE_REQUIRED",
+  "structure": {
+    "status": "text-level only; performer sections pending"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "language": {
+    "status": "guest words and language pending verification"
+  },
+  "songwriting": {
+    "textual_reading": "The text relies on a named lover and pillow rhyme, then expands into physical details and comic/explicit images. Bella Shmurda?s project note describes how Omah Lay joined the song. Shazam?s structured writer block lists Bella alone while its footer includes Omah Lay; reconcile this conflict before assigning text lines.",
+    "omah_lay_scope": "joint performer; exact sections and authorship disputed in source"
+  },
+  "simple_lines_musicality": {
+    "status": "audio pending"
+  },
+  "hook": {
+    "hypothesis": "The text relies on a named lover and pillow rhyme, then expands into physical details and comic/explicit images. Bella Shmurda?s project note describes how Omah Lay joined the song. Shazam?s structured writer block lists Bella alone while its footer includes Omah Lay; reconcile this conflict before assigning text lines.",
+    "audio_verification_required": true
+  },
+  "vocals": {
+    "status": "audio pending; identity of sections to verify"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [],
+  "findings": [],
+  "limitations": [
+    "Audio not heard",
+    "Performer sections unverified",
+    "Credits need reconciliation"
+  ],
+  "experimental_metrics": {}
+}

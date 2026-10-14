@@ -1,0 +1,334 @@
+{
+  "schema_version": "0.2.0",
+  "title": "You",
+  "artist": "Omah Lay",
+  "project": "Get Layd",
+  "track_number": 3,
+  "release_date": "2020-05-22",
+  "release_date_note": "Apple song page displays 2020-02-14; earlier single/version status unresolved",
+  "duration_seconds": 155.79,
+  "writers": [
+    "Stanley Omah Didia",
+    "Ebenezer Lawson"
+  ],
+  "producers": [
+    "El-jack"
+  ],
+  "credits_status": "Shazam-reported",
+  "audio_status": "PARTIAL_CAPTURE_EXTERNAL_LISTENING_VERIFIED",
+  "bpm": 96.97,
+  "bpm_status": "16 principal beat intervals / about 9.90 s near opening and 2:18; approximately 97 BPM; Shazam 96 BPM",
+  "key_or_tonal_centre": null,
+  "time_signature": "plausible 4/4 grouping from external listening; not confirmed beat grid",
+  "sources": [
+    "https://open.spotify.com/album/3wzSqNDc2jNNV42XLkkDMA",
+    "https://www.shazam.com/song/1528527072/you",
+    "https://music.apple.com/us/song/1528527072",
+    "https://audiomack.com/omah-lay/song/you",
+    "https://afrikalyrics.com/omah-lay-you-lyrics",
+    "https://www.youtube.com/watch?v=hJ8-7clGZKs",
+    "artists/01-omah-lay/audio/get-layd/wav-intake.json",
+    {
+      "type": "external_listening",
+      "path": "listening-analysis.md",
+      "date_received": "2026-09-27",
+      "note": "user supplied; heard claims attributed to Listening Analyst"
+    },
+    {
+      "type": "technical_measurement",
+      "path": "../../../../audio/get-layd/wav-intake.json",
+      "note": "local PCM duration, format, signal boundaries; not listening"
+    },
+    {
+      "type": "lyric_research",
+      "path": "../../../../lyrics/get-layd/you.md"
+    }
+  ],
+  "structure": {
+    "first_vocal_seconds_approx": 1.0,
+    "first_hook_material_seconds_approx": 49.0,
+    "first_extended_hook_seconds_approx": null,
+    "music_end_seconds_approx": null,
+    "capture_end_seconds": 155.79,
+    "landmarks": [
+      {
+        "start_seconds_approx": 0,
+        "end_seconds_approx": 4.5,
+        "function": "brief lead intro"
+      },
+      {
+        "start_seconds_approx": 4.5,
+        "end_seconds_approx": 34,
+        "function": "pledge"
+      },
+      {
+        "start_seconds_approx": 34,
+        "end_seconds_approx": 49,
+        "function": "fire/trial transition"
+      },
+      {
+        "start_seconds_approx": 49,
+        "end_seconds_approx": 73.7,
+        "function": "first declaration"
+      },
+      {
+        "start_seconds_approx": 73.7,
+        "end_seconds_approx": 113.2,
+        "function": "bad-man section"
+      },
+      {
+        "start_seconds_approx": 113.2,
+        "end_seconds_approx": 128.2,
+        "function": "pledge reprise"
+      },
+      {
+        "start_seconds_approx": 128.2,
+        "end_seconds_approx": 155.79,
+        "function": "later declaration cut mid-performance"
+      }
+    ],
+    "status": "partial capture; final section unverified"
+  },
+  "hook": {
+    "first_declaration_seconds": 49.0,
+    "first_block_lead_cells_estimate": 5,
+    "late_block_complete_cells_minimum": 5,
+    "late_block_extra_cell_starts_near_seconds": 153,
+    "final_count": "unknown due cutoff"
+  },
+  "language": {
+    "heard_or_text_supported": [
+      "English",
+      "Nigerian Pidgin",
+      "local place name with uncertain orthography"
+    ],
+    "language_ratio": "unmeasured",
+    "uncertain_words": "see lyric correction log"
+  },
+  "cadence": {
+    "heard_findings": [
+      "long opening pledge crosses probable bar units",
+      "function words compressed around stressed /w/ words",
+      "bad-man passage speech-shaped and denser",
+      "held you vowel in declaration"
+    ],
+    "phrase_duration": "qualitative short/long contrast; no complete distribution measured",
+    "onset_vs_beat": "selected analyst estimates in alignment; exact grid unverified",
+    "barline_crossing": "unverified",
+    "vocal_density": "qualitative changes only; not quantified"
+  },
+  "phonetics": {
+    "heard_findings": [
+      "war/word/words /w/ chain",
+      "fire/lighter/trial /aɪ/ near rhyme",
+      "Igwuruta four-part sound probable",
+      "rasta-fa onset; ending unclear"
+    ],
+    "rhyme_and_sound": "see timestamped alignment and analysis.md",
+    "uncertainty": "orthography cannot always be resolved from sound alone"
+  },
+  "vocals": {
+    "heard_findings": [
+      "declaration more melodic and held than bad-man passage",
+      "probable lead-related doubled response"
+    ],
+    "register_range": "unmeasured",
+    "melodic_contour": "qualitative in analysis.md; no pitch transcription",
+    "melodic_range": "unmeasured",
+    "backing_vocal_identity": "unverified"
+  },
+  "production": {
+    "heard_findings": [
+      "bass/percussion continue through vocal gaps",
+      "high plucked fill probable",
+      "true ending unavailable"
+    ],
+    "kick_and_rim_grid": "unmeasured",
+    "bass_movement": "qualitative groove continuity only; notes unmeasured",
+    "silence_and_negative_space": "vocal gaps over continuing arrangement; no quantified silence map",
+    "loudness_dynamics": "not perceptually calibrated or LUFS measured",
+    "transitions_and_energy": "see section landmarks; approximate"
+  },
+  "lyric_audio_interactions": [
+    {
+      "window": "0:04.5-0:34",
+      "short_cue": "war / words",
+      "heard_or_interpreted_mechanism": "long phrase; /w/ chain; compressed function words",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "0:34-0:49",
+      "short_cue": "fire / lighter / trial",
+      "heard_or_interpreted_mechanism": "pickup-like entry, /aɪ/ family, longer trial vowel",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "0:49-1:13.7",
+      "short_cue": "you",
+      "heard_or_interpreted_mechanism": "about five lead cells, held vowel and probable doubled response",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "1:13.7-1:53.2",
+      "short_cue": "bad man / dey / am",
+      "heard_or_interpreted_mechanism": "denser speech-shaped rhythm and compact Pidgin particles",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "1:35.5-1:41.5",
+      "short_cue": "ig-wu-ru-ta / rasta-fa",
+      "heard_or_interpreted_mechanism": "phonetic place-name support; following word unresolved",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    },
+    {
+      "window": "2:08.2-2:35.79",
+      "short_cue": "you",
+      "heard_or_interpreted_mechanism": "at least five complete cells; cutoff before ending",
+      "timing_precision": "approximate listening report, no certified downbeat"
+    }
+  ],
+  "story_units": [
+    "brief lead intro",
+    "pledge",
+    "fire/trial transition",
+    "first declaration",
+    "bad-man section",
+    "pledge reprise",
+    "later declaration cut mid-performance"
+  ],
+  "limitations": [
+    "source coverage limit: Listening Analyst hears a hard cutoff while the performance continues; ending-dependent findings withheld, available-audio analysis complete",
+    "February Apple song date versus May EP history unresolved",
+    "rasta-fear/Rastafarian and place-name orthography unresolved",
+    "key, melodic range, exact grid, kick/rim placement and quantitative vocal density unmeasured",
+    "Codex did not directly hear WAV; audible claims come from separate preserved Listening Analyst report",
+    "release credits and dates are indexed platform metadata, not independent publishing registrations"
+  ],
+  "features": [],
+  "tempo_stability": "two distant analyst-timed pulse windows agree approximately; full-song grid not measured",
+  "single_status": "approved original Get Layd EP recording; earlier single/master equivalence not independently proven",
+  "chart_performance": [],
+  "songwriting": {
+    "narrative_and_structure": "see analysis.md; source-derived story interpretation joined to reported listening",
+    "generative_lessons": [
+      {
+        "observation": "long pledge gives way to simple declaration",
+        "mechanism": "semantic density decreases as vowel sustain increases",
+        "possible_transferable_principle": "reserve a short landing phrase after detailed setup",
+        "use_case_tags": [
+          "HOOK_DOCTOR",
+          "LYRIC_WRITER"
+        ],
+        "status": "song-level hypothesis; requires cross-song validation"
+      },
+      {
+        "observation": "Pidgin particles compress in denser passage",
+        "mechanism": "natural speech stress defines rhythm more than uniform syllable counts",
+        "possible_transferable_principle": "check local speech plausibility before regularizing lyrics",
+        "use_case_tags": [
+          "CADENCE_DOCTOR",
+          "NIGERIAN_LANGUAGE_CRITIC"
+        ],
+        "status": "song-level hypothesis; requires cross-song validation"
+      }
+    ]
+  },
+  "simple_lines_musicality": [
+    "reserve a short landing phrase after detailed setup",
+    "check local speech plausibility before regularizing lyrics"
+  ],
+  "findings": [
+    "long opening pledge crosses probable bar units",
+    "function words compressed around stressed /w/ words",
+    "bad-man passage speech-shaped and denser",
+    "held you vowel in declaration",
+    "war/word/words /w/ chain",
+    "fire/lighter/trial /aɪ/ near rhyme",
+    "Igwuruta four-part sound probable",
+    "rasta-fa onset; ending unclear",
+    "bass/percussion continue through vocal gaps",
+    "high plucked fill probable",
+    "true ending unavailable"
+  ],
+  "experimental_metrics": [
+    {
+      "name": "distant_principal_pulse_samples",
+      "value": "16 principal beat intervals / about 9.90 s near opening and 2:18; approximately 97 BPM; Shazam 96 BPM",
+      "provenance": "analyst timed beat intervals; arithmetic checked by Codex",
+      "status": "two-window estimate"
+    },
+    {
+      "name": "capture_completion",
+      "value": "active-signal hard cutoff before EP reference duration",
+      "provenance": "local WAV endpoint plus external listening",
+      "status": "first-pass evidence"
+    }
+  ],
+  "audio_discovery_status": "Broad discovery completed 2026-09-24; official and licensed page listings found, no audio bytes technically accessible in this environment",
+  "audio_acquisition_record": "artists/01-omah-lay/audio/get-layd/acquisition.md",
+  "lyric_verification_record": "artists/01-omah-lay/lyrics/get-layd/you.md",
+  "capture_intake": {
+    "checked_date": "2026-09-25",
+    "path": "artists/01-omah-lay/audio/get-layd/you.mp3",
+    "capture_provenance": "user states private capture of computer playback",
+    "decoded_duration_seconds": 155.79,
+    "format": "MPEG-1 Layer III 320 kb/s CBR 44.1 kHz joint stereo; no ID3",
+    "identity_status": "not verified by listening",
+    "note": "Short by about 7.2 s against EP listing and active at cutoff",
+    "technical_record": "artists/01-omah-lay/audio/get-layd/technical-intake.md"
+  },
+  "analysis_completion_status": "COMPLETE_FOR_AVAILABLE_AUDIO",
+  "capture_intake_current": {
+    "checked_date": "2026-09-26",
+    "path": "artists/01-omah-lay/audio/get-layd/you.wav",
+    "format": "uncompressed WAV; 16-bit stereo PCM; 44.1 kHz",
+    "sha256": "65c8d2c9d44a5d7ea925cfa4bbe4bbcffcdacc96fc33ea3633249162d16cf425",
+    "decoded_duration_seconds": 155.79,
+    "signal_start_seconds_approx": 0.0,
+    "signal_end_seconds_approx": 155.79,
+    "leading_low_signal_seconds_approx": 0.0,
+    "trailing_low_signal_seconds_approx": 0.0,
+    "declared_frames": 6870360,
+    "decoded_frames": 6870360,
+    "version_identity": "captured part sounds like solo studio EP track; full version cannot be confirmed due cutoff",
+    "technical_record": "artists/01-omah-lay/audio/get-layd/technical-intake.md",
+    "listening_evidence": "listening-analysis.md; user-supplied audio-capable analyst report, not Codex direct listening"
+  },
+  "duration_status": "measured supplied private playback capture; platform duration is reference metadata, never a completeness requirement",
+  "evidence_layers": {
+    "source_metadata": "EP/Shazam and indexed source records",
+    "lyrical": "lyrics/get-layd/you.md; Shazam/Afrika source disagreements",
+    "technical_audio": "audio/get-layd/wav-intake.json and technical-intake.md",
+    "heard": "listening-analysis.md preserved from user attachment",
+    "interpreted": "analysis.md sections explicitly labelled as interpretation or possible principle"
+  },
+  "version_identity": {
+    "assessment": "captured part sounds like solo studio EP track; full version cannot be confirmed due cutoff",
+    "bit_identical_master": "unverified",
+    "capture_source_url": "unverified"
+  },
+  "completion_blocker": null,
+  "ending_reassessment_2026_09_28": {
+    "completeness_decision": "source recording truncated; first-pass analysis complete for available audio",
+    "decisive_evidence_type": "attributed Listening Analyst hearing of hard cutoff",
+    "audible_evidence": "At 2:35.79 a later declaration cell and percussion/low end are continuing; no fade or arranged stop. The final exact syllable is not established.",
+    "last_audible_event": "continuing refrain/vocal cell over percussion and low end; exact last syllable unresolved",
+    "natural_fade_or_arranged_stop": false,
+    "platform_duration_role": "reference metadata only; mismatch is a technical flag, not proof",
+    "bit_identical_master_required": false,
+    "new_broad_listening_pass_required": false,
+    "missing_duration_seconds": "unknown",
+    "first_pass_audio_replacement_required": false
+  },
+  "source_recording_complete": false,
+  "analysis_complete_for_available_audio": true,
+  "source_recording_completeness_basis": "Preserved external Listening Analyst report hears hard cutoff during continuing declaration and groove",
+  "analysis_evidence_scope": "Substantial supplied capture through hard cutoff; first-pass analysis complete for available audio; post-cutoff events unavailable",
+  "unassessable_due_to_partial_source": [
+    "final declaration/refrain count and duration",
+    "post-cutoff lyric or backing content",
+    "outro structure",
+    "final production resolution",
+    "arranged fade/stop or ending behaviour"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Can't Relate",
+  "artist": "Omah Lay",
+  "features": [],
+  "project": "What Have We Done",
+  "track_number": 2,
+  "release_date": "2020-11-20",
+  "duration_seconds": 183,
+  "duration_status": "Spotify-reported",
+  "writers": [
+    "Stanley Omah Didia",
+    "Ugochukwu Opara"
+  ],
+  "producers": [
+    "Omah Lay",
+    "Tuzi"
+  ],
+  "credits_status": "Shazam-reported",
+  "bpm": null,
+  "bpm_status": "unknown",
+  "tempo_stability": null,
+  "key_or_tonal_centre": null,
+  "time_signature": null,
+  "audio_status": "USER_FILE_REQUIRED",
+  "sources": [
+    "https://open.spotify.com/album/4PYDryHrfDvfnUHvZ2eqKv",
+    "https://www.shazam.com/song/1636087613/cant-relate"
+  ],
+  "structure": {
+    "status": "transcription-level only; timed sections unknown"
+  },
+  "hook": {
+    "textual_hypothesis": "short status-and-alienation refrain",
+    "audio_verification_required": true
+  },
+  "songwriting": {
+    "textual_units": [
+      "status",
+      "protection request",
+      "isolation and coping",
+      "refrain return"
+    ]
+  },
+  "language": {
+    "status": "English/Nigerian Pidgin visible; local wording pending verification"
+  },
+  "cadence": {
+    "status": "audio pending"
+  },
+  "phonetics": {
+    "status": "audio pending"
+  },
+  "vocals": {
+    "status": "audio pending"
+  },
+  "production": {
+    "status": "audio pending"
+  },
+  "lyric_audio_interactions": [],
+  "story_units": [
+    "status",
+    "protection request",
+    "isolation and coping",
+    "refrain return"
+  ],
+  "limitations": [
+    "Audio not heard",
+    "Transcription not independently reconciled",
+    "No validated musical section map"
+  ],
+  "single_status": null,
+  "chart_performance": [],
+  "simple_lines_musicality": [],
+  "findings": [],
+  "experimental_metrics": []
+}
