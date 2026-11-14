@@ -253,3 +253,13 @@ LIMITS: No Omah Lay expression was promoted to general Nigerian usage; commercia
 NEXT ACTION: Stop for review. What Have We Done has not begun.
 CHECKS: Updated schema parses as JSON; the slang array is optional and all 32 original required fields remain. Each of the five Get Layd analysis JSON files still contains those fields. `CURRENT_ARTIST`, `CURRENT_STAGE` and approved recording count are unchanged; benchmark file timestamps are unchanged.
 
+
+## 2026-11-14 — What Have We Done audio discovery (cloud session)
+
+TASK: The user asked for audio to be downloaded online, or recorded from Mac playback, for private non-commercial research. Bootstrapped the repo; attempted What Have We Done acquisition.
+FILES CREATED: `artists/01-omah-lay/audio/what-have-we-done/acquisition.md` (discovery log, host allowlist re-try path, Mac BlackHole/Audacity capture guide, arrival identity checks).
+FILES UPDATED: Omah Lay acquisition manifest, `PROJECT_STATE.md`, this log.
+SOURCES CHECKED: YouTube, Audiomack, SoundCloud, Boomplay, Spotify, Apple Music, TrendyBeatz, Mdundo and Internet Archive. All were refused by the environment egress proxy (403/connect rejected); the sources themselves were not reached. Installed yt-dlp 2026.10.26; ffmpeg is present.
+FINDINGS: None musical. No audio was obtained or heard. The proposed allowlist change could not be displayed in the user's app version, and nothing was changed.
+BLOCKERS: WHWD audio (all five, incl. the 6LACK Damn version).
+NEXT ACTION: Allow the listed hosts from claude.ai on a computer and re-run the fetch, or have the user supply WAV captures per the guide. Then run identity checks and lyric intake.
